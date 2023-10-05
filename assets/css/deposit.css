@@ -1,0 +1,2485 @@
+<style ng-transition="ng-cli-universal">
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186]
+  .links[_ngcontent-sc186] {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-fxpro-vault[_ngcontent-sc186] {
+    padding-bottom: 0;
+  }
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  h1[_ngcontent-sc186]
+  small {
+  display: block;
+  line-height: 1.2;
+  font-size: 70%;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+    h1[_ngcontent-sc186]
+    small {
+    font-size: 30px;
+  }
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186] {
+  position: relative;
+  margin-bottom: 30px;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+    .deposit-content[_ngcontent-sc186] {
+    min-height: 583px;
+    margin-bottom: 150px;
+  }
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186]
+  .image-key[_ngcontent-sc186] {
+  display: block;
+  text-align: center;
+  margin: 0 auto 70px;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+    .deposit-content[_ngcontent-sc186]
+    .image-key[_ngcontent-sc186] {
+    margin: 0;
+  }
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186]
+  .image-key[_ngcontent-sc186]
+  img[_ngcontent-sc186] {
+  max-width: 100%;
+  height: auto;
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186]
+  .content[_ngcontent-sc186] {
+  margin-bottom: 30px;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+    .deposit-content[_ngcontent-sc186]
+    .content[_ngcontent-sc186] {
+    position: absolute;
+    top: 0;
+    bottom: -30px;
+    left: 20px;
+    width: 46%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0;
+  }
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186]
+  h2[_ngcontent-sc186] {
+  margin: 0 0 30px;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+    .deposit-content[_ngcontent-sc186]
+    h2[_ngcontent-sc186] {
+    margin-bottom: 0;
+  }
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186]
+  h2[_ngcontent-sc186]
+  strong[_ngcontent-sc186] {
+  color: #b68756;
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186]
+  p[_ngcontent-sc186] {
+  margin: 0 0 40px;
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186]
+  .links[_ngcontent-sc186] {
+  display: flex;
+  flex-direction: column;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+    .deposit-content[_ngcontent-sc186]
+    .links[_ngcontent-sc186] {
+    align-items: center;
+    flex-direction: row;
+  }
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186]
+  .links[_ngcontent-sc186]
+  li[_ngcontent-sc186] {
+  margin-bottom: 15px;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+    .deposit-content[_ngcontent-sc186]
+    .links[_ngcontent-sc186]
+    li[_ngcontent-sc186] {
+    margin-right: 65px;
+    margin-bottom: 0;
+  }
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186]
+  .links[_ngcontent-sc186]
+  a[_ngcontent-sc186] {
+  display: inline-flex;
+  align-items: center;
+  line-height: 21px;
+  font-size: 16px;
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186]
+  .links[_ngcontent-sc186]
+  .icon[_ngcontent-sc186] {
+  font-size: 21px;
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186]
+  .links[_ngcontent-sc186]
+  .icon[_ngcontent-sc186],
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-content[_ngcontent-sc186]
+  .links[_ngcontent-sc186]
+  img[_ngcontent-sc186] {
+  width: 27px;
+  margin-right: 10px;
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-container[_ngcontent-sc186] {
+  border: 1px solid #dfe6e9;
+  border-width: 1px 0;
+  padding: 20px 0;
+  display: flex;
+  overflow-x: scroll;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+    .deposit-container[_ngcontent-sc186] {
+    overflow: hidden;
+    padding: 31px 0;
+  }
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-container[_ngcontent-sc186]
+  .currency-column[_ngcontent-sc186] {
+  color: #b68756;
+  font-size: 24px;
+  margin-right: 10px;
+  flex: 1 0 33.333%;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+    .deposit-container[_ngcontent-sc186]
+    .currency-column[_ngcontent-sc186] {
+    flex: 1;
+    font-size: 36px;
+    font-weight: 300;
+  }
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .deposit-container[_ngcontent-sc186]
+  .currency-column[_ngcontent-sc186]
+  .currency[_ngcontent-sc186] {
+  font-size: 14px;
+  display: block;
+  font-weight: 700;
+  color: #2d3436;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+    .deposit-container[_ngcontent-sc186]
+    .currency-column[_ngcontent-sc186]
+    .currency[_ngcontent-sc186] {
+    font-size: 18px;
+  }
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .heading-title[_ngcontent-sc186] {
+  margin-bottom: 30px;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+    .heading-title[_ngcontent-sc186] {
+    margin-bottom: 46px;
+  }
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .heading-title[_ngcontent-sc186]
+  .icon[_ngcontent-sc186] {
+  color: #2d3436;
+  display: block;
+  margin: 0 auto 30px;
+  font-size: 40px;
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .heading-title[_ngcontent-sc186]
+  h2[_ngcontent-sc186] {
+  margin: 0;
+}
+.fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+  .title[_ngcontent-sc186] {
+  margin-bottom: 25px;
+  font-weight: 500;
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  letter-spacing: 1.2px;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-fxpro-vault[_ngcontent-sc186]
+    .title[_ngcontent-sc186] {
+    margin-bottom: 50px;
+    font-size: 18px;
+  }
+}
+@media (min-width: 1024px) {
+  [lang="ar"] .fx-section--deposit-fxpro-vault .deposit-content .content {
+    right: 20px !important;
+    right: auto !important;
+  }
+}
+@media (min-width: 1024px) {
+  [lang="ar"]
+    .fx-section--deposit-fxpro-vault
+    .deposit-content
+    .links
+    li {
+    margin-left: 65px !important;
+    margin-right: 0 !important;
+  }
+}
+[lang="ar"]
+  .fx-section--deposit-fxpro-vault
+  .deposit-content
+  .links
+  .icon,
+[lang="ar"] .fx-section--deposit-fxpro-vault .deposit-content .links img {
+  margin-left: 10px !important;
+  margin-right: 0 !important;
+}
+[lang="ar"]
+  .fx-section--deposit-fxpro-vault
+  .deposit-container
+  .currency-column {
+  margin-left: 10px !important;
+  margin-right: 0 !important;
+}
+</style>
+<style ng-transition="ng-cli-universal">
+h2[_ngcontent-sc182] {
+  margin-bottom: 30px;
+}
+@media (min-width: 1024px) {
+  h2[_ngcontent-sc182] {
+    margin-bottom: 50px;
+  }
+}
+.item-product[_ngcontent-sc182] {
+  text-align: center;
+  padding: 20px;
+}
+@media (min-width: 1024px) {
+  .item-product[_ngcontent-sc182] {
+    padding: 35px 20px;
+    margin-bottom: 90px;
+  }
+}
+.item-product[_ngcontent-sc182] .icon[_ngcontent-sc182] {
+  color: #a79582;
+  font-size: 44px;
+  margin: 0 auto 20px;
+}
+.item-product[_ngcontent-sc182] .text-size-h3[_ngcontent-sc182] {
+  text-transform: uppercase;
+  color: #a79582;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 600;
+  margin: 0;
+}
+@media (min-width: 1024px) {
+  .item-product[_ngcontent-sc182] .text-size-h3[_ngcontent-sc182] {
+    font-size: 18px;
+    margin: 0 auto;
+    max-width: 74%;
+    line-height: 20px;
+  }
+}
+.item-product[_ngcontent-sc182] .text-size-h3[_ngcontent-sc182] small {
+  display: block;
+  color: #636e72;
+  text-transform: none;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  margin-top: 15px;
+}
+@media (min-width: 1024px) {
+  .item-product[_ngcontent-sc182] .text-size-h3[_ngcontent-sc182] small {
+    font-size: 16px;
+    line-height: 1.2;
+    margin: 15px -13% 0;
+  }
+}
+</style>
+<style ng-transition="ng-cli-universal">
+[_nghost-sc97] {
+  width: 100%;
+  max-width: 100%;
+}
+img[_ngcontent-sc97],
+picture[_ngcontent-sc97],
+source[_ngcontent-sc97] {
+  width: inherit;
+  max-width: inherit;
+}
+</style>
+<style ng-transition="ng-cli-universal">
+.award[_ngcontent-sc144] {
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  text-align: center;
+  margin-bottom: 20px;
+}
+@media (min-width: 1024px) {
+  .award[_ngcontent-sc144] {
+    margin-bottom: 0;
+  }
+}
+.award[_ngcontent-sc144] i[_ngcontent-sc144] {
+  color: #2d3436;
+  margin-bottom: 1.25rem;
+  font-size: 2.5rem;
+  display: block;
+}
+.award[_ngcontent-sc144] .text-size-h6[_ngcontent-sc144] {
+  text-transform: uppercase;
+  line-height: 1.25;
+  font-weight: 600;
+  color: #2d3436;
+}
+.award[_ngcontent-sc144] .text-size-h6[_ngcontent-sc144] small {
+  font-size: 1rem;
+  text-transform: capitalize;
+  color: #636e72;
+  font-weight: 400;
+  margin-top: 11px;
+}
+.panel__heading[_ngcontent-sc144] .award[_ngcontent-sc144] {
+  padding-top: 1rem;
+}
+.fx-theme--dark .award .text-size-h6 small {
+  color: #b2bec3 !important;
+}
+</style>
+<style ng-transition="ng-cli-universal">
+.swiper-container[_ngcontent-sc189] {
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  overflow: hidden;
+  list-style: none;
+  padding: 0;
+  z-index: 1;
+}
+.swiper-container-no-flexbox[_ngcontent-sc189]
+  .swiper-slide[_ngcontent-sc189] {
+  float: left;
+}
+.swiper-container-vertical[_ngcontent-sc189]
+  > .swiper-wrapper[_ngcontent-sc189] {
+  flex-direction: column;
+}
+.swiper-wrapper[_ngcontent-sc189] {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  display: flex;
+  transition-property: transform;
+  box-sizing: initial;
+}
+.swiper-container-android[_ngcontent-sc189]
+  .swiper-slide[_ngcontent-sc189],
+.swiper-wrapper[_ngcontent-sc189] {
+  transform: translateZ(0);
+}
+.swiper-container-multirow[_ngcontent-sc189]
+  > .swiper-wrapper[_ngcontent-sc189] {
+  flex-wrap: wrap;
+}
+.swiper-container-free-mode[_ngcontent-sc189]
+  > .swiper-wrapper[_ngcontent-sc189] {
+  transition-timing-function: ease-out;
+  margin: 0 auto;
+}
+.swiper-slide[_ngcontent-sc189] {
+  flex-shrink: 0;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transition-property: transform;
+}
+.swiper-slide-invisible-blank[_ngcontent-sc189] {
+  visibility: hidden;
+}
+.swiper-container-autoheight[_ngcontent-sc189],
+.swiper-container-autoheight[_ngcontent-sc189]
+  .swiper-slide[_ngcontent-sc189] {
+  height: auto;
+}
+.swiper-container-autoheight[_ngcontent-sc189]
+  .swiper-wrapper[_ngcontent-sc189] {
+  align-items: flex-start;
+  transition-property: transform, height;
+}
+.swiper-container-3d[_ngcontent-sc189] {
+  perspective: 1200px;
+}
+.swiper-container-3d[_ngcontent-sc189]
+  .swiper-cube-shadow[_ngcontent-sc189],
+.swiper-container-3d[_ngcontent-sc189] .swiper-slide[_ngcontent-sc189],
+.swiper-container-3d[_ngcontent-sc189]
+  .swiper-slide-shadow-bottom[_ngcontent-sc189],
+.swiper-container-3d[_ngcontent-sc189]
+  .swiper-slide-shadow-left[_ngcontent-sc189],
+.swiper-container-3d[_ngcontent-sc189]
+  .swiper-slide-shadow-right[_ngcontent-sc189],
+.swiper-container-3d[_ngcontent-sc189]
+  .swiper-slide-shadow-top[_ngcontent-sc189],
+.swiper-container-3d[_ngcontent-sc189] .swiper-wrapper[_ngcontent-sc189] {
+  transform-style: preserve-3d;
+}
+.swiper-container-3d[_ngcontent-sc189]
+  .swiper-slide-shadow-bottom[_ngcontent-sc189],
+.swiper-container-3d[_ngcontent-sc189]
+  .swiper-slide-shadow-left[_ngcontent-sc189],
+.swiper-container-3d[_ngcontent-sc189]
+  .swiper-slide-shadow-right[_ngcontent-sc189],
+.swiper-container-3d[_ngcontent-sc189]
+  .swiper-slide-shadow-top[_ngcontent-sc189] {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 10;
+}
+.swiper-container-3d[_ngcontent-sc189]
+  .swiper-slide-shadow-left[_ngcontent-sc189] {
+  background-image: linear-gradient(270deg, #00000080, #0000);
+}
+.swiper-container-3d[_ngcontent-sc189]
+  .swiper-slide-shadow-right[_ngcontent-sc189] {
+  background-image: linear-gradient(90deg, #00000080, #0000);
+}
+.swiper-container-3d[_ngcontent-sc189]
+  .swiper-slide-shadow-top[_ngcontent-sc189] {
+  background-image: linear-gradient(0deg, #00000080, #0000);
+}
+.swiper-container-3d[_ngcontent-sc189]
+  .swiper-slide-shadow-bottom[_ngcontent-sc189] {
+  background-image: linear-gradient(180deg, #00000080, #0000);
+}
+.swiper-container-wp8-horizontal[_ngcontent-sc189],
+.swiper-container-wp8-horizontal[_ngcontent-sc189]
+  > .swiper-wrapper[_ngcontent-sc189] {
+  touch-action: pan-y;
+}
+.swiper-container-wp8-vertical[_ngcontent-sc189],
+.swiper-container-wp8-vertical[_ngcontent-sc189]
+  > .swiper-wrapper[_ngcontent-sc189] {
+  touch-action: pan-x;
+}
+.swiper-button-next[_ngcontent-sc189],
+.swiper-button-prev[_ngcontent-sc189] {
+  position: absolute;
+  top: 50%;
+  width: 27px;
+  height: 44px;
+  margin-top: -22px;
+  z-index: 10;
+  cursor: pointer;
+  background-size: 27px 44px;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+.swiper-button-next.swiper-button-disabled[_ngcontent-sc189],
+.swiper-button-prev.swiper-button-disabled[_ngcontent-sc189] {
+  opacity: 0.35;
+  cursor: auto;
+  pointer-events: none;
+}
+.swiper-button-prev[_ngcontent-sc189],
+.swiper-container-rtl[_ngcontent-sc189]
+  .swiper-button-next[_ngcontent-sc189] {
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%23007aff'%2F%3E%3C%2Fsvg%3E");
+  left: 10px;
+  right: auto;
+}
+.swiper-button-next[_ngcontent-sc189],
+.swiper-container-rtl[_ngcontent-sc189]
+  .swiper-button-prev[_ngcontent-sc189] {
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%23007aff'%2F%3E%3C%2Fsvg%3E");
+  right: 10px;
+  left: auto;
+}
+.swiper-button-prev.swiper-button-white[_ngcontent-sc189],
+.swiper-container-rtl[_ngcontent-sc189]
+  .swiper-button-next.swiper-button-white[_ngcontent-sc189] {
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%23ffffff'%2F%3E%3C%2Fsvg%3E");
+}
+.swiper-button-next.swiper-button-white[_ngcontent-sc189],
+.swiper-container-rtl[_ngcontent-sc189]
+  .swiper-button-prev.swiper-button-white[_ngcontent-sc189] {
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%23ffffff'%2F%3E%3C%2Fsvg%3E");
+}
+.swiper-button-prev.swiper-button-black[_ngcontent-sc189],
+.swiper-container-rtl[_ngcontent-sc189]
+  .swiper-button-next.swiper-button-black[_ngcontent-sc189] {
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%23000000'%2F%3E%3C%2Fsvg%3E");
+}
+.swiper-button-next.swiper-button-black[_ngcontent-sc189],
+.swiper-container-rtl[_ngcontent-sc189]
+  .swiper-button-prev.swiper-button-black[_ngcontent-sc189] {
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%23000000'%2F%3E%3C%2Fsvg%3E");
+}
+.swiper-button-lock[_ngcontent-sc189] {
+  display: none;
+}
+.swiper-pagination[_ngcontent-sc189] {
+  position: absolute;
+  text-align: center;
+  transition: opacity 0.3s;
+  transform: translateZ(0);
+  z-index: 10;
+}
+.swiper-pagination.swiper-pagination-hidden[_ngcontent-sc189] {
+  opacity: 0;
+}
+.swiper-container-horizontal[_ngcontent-sc189]
+  > .swiper-pagination-bullets[_ngcontent-sc189],
+.swiper-pagination-custom[_ngcontent-sc189],
+.swiper-pagination-fraction[_ngcontent-sc189] {
+  bottom: 10px;
+  left: 0;
+  width: 100%;
+}
+.swiper-pagination-bullets-dynamic[_ngcontent-sc189] {
+  overflow: hidden;
+  font-size: 0;
+}
+.swiper-pagination-bullets-dynamic[_ngcontent-sc189]
+  .swiper-pagination-bullet[_ngcontent-sc189] {
+  transform: scale(0.33);
+  position: relative;
+}
+.swiper-pagination-bullets-dynamic[_ngcontent-sc189]
+  .swiper-pagination-bullet-active[_ngcontent-sc189],
+.swiper-pagination-bullets-dynamic[_ngcontent-sc189]
+  .swiper-pagination-bullet-active-main[_ngcontent-sc189] {
+  transform: scale(1);
+}
+.swiper-pagination-bullets-dynamic[_ngcontent-sc189]
+  .swiper-pagination-bullet-active-prev[_ngcontent-sc189] {
+  transform: scale(0.66);
+}
+.swiper-pagination-bullets-dynamic[_ngcontent-sc189]
+  .swiper-pagination-bullet-active-prev-prev[_ngcontent-sc189] {
+  transform: scale(0.33);
+}
+.swiper-pagination-bullets-dynamic[_ngcontent-sc189]
+  .swiper-pagination-bullet-active-next[_ngcontent-sc189] {
+  transform: scale(0.66);
+}
+.swiper-pagination-bullets-dynamic[_ngcontent-sc189]
+  .swiper-pagination-bullet-active-next-next[_ngcontent-sc189] {
+  transform: scale(0.33);
+}
+.swiper-pagination-bullet[_ngcontent-sc189] {
+  width: 8px;
+  height: 8px;
+  display: inline-block;
+  border-radius: 100%;
+  background: #000;
+  opacity: 0.2;
+}
+button.swiper-pagination-bullet[_ngcontent-sc189] {
+  border: none;
+  margin: 0;
+  padding: 0;
+  box-shadow: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.swiper-pagination-clickable[_ngcontent-sc189]
+  .swiper-pagination-bullet[_ngcontent-sc189] {
+  cursor: pointer;
+}
+.swiper-pagination-bullet-active[_ngcontent-sc189] {
+  opacity: 1;
+  background: #007aff;
+}
+.swiper-container-vertical[_ngcontent-sc189]
+  > .swiper-pagination-bullets[_ngcontent-sc189] {
+  right: 10px;
+  top: 50%;
+  transform: translate3d(0, -50%, 0);
+}
+.swiper-container-vertical[_ngcontent-sc189]
+  > .swiper-pagination-bullets[_ngcontent-sc189]
+  .swiper-pagination-bullet[_ngcontent-sc189] {
+  margin: 6px 0;
+  display: block;
+}
+.swiper-container-vertical[_ngcontent-sc189]
+  > .swiper-pagination-bullets.swiper-pagination-bullets-dynamic[_ngcontent-sc189] {
+  top: 50%;
+  transform: translateY(-50%);
+  width: 8px;
+}
+.swiper-container-vertical[_ngcontent-sc189]
+  > .swiper-pagination-bullets.swiper-pagination-bullets-dynamic[_ngcontent-sc189]
+  .swiper-pagination-bullet[_ngcontent-sc189] {
+  display: inline-block;
+  transition: top 0.2s, -webkit-transform 0.2s;
+  transition: transform 0.2s, top 0.2s;
+  transition: transform 0.2s, top 0.2s, -webkit-transform 0.2s;
+}
+.swiper-container-horizontal[_ngcontent-sc189]
+  > .swiper-pagination-bullets[_ngcontent-sc189]
+  .swiper-pagination-bullet[_ngcontent-sc189] {
+  margin: 0 4px;
+}
+.swiper-container-horizontal[_ngcontent-sc189]
+  > .swiper-pagination-bullets.swiper-pagination-bullets-dynamic[_ngcontent-sc189] {
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+.swiper-container-horizontal[_ngcontent-sc189]
+  > .swiper-pagination-bullets.swiper-pagination-bullets-dynamic[_ngcontent-sc189]
+  .swiper-pagination-bullet[_ngcontent-sc189] {
+  transition: left 0.2s, -webkit-transform 0.2s;
+  transition: transform 0.2s, left 0.2s;
+  transition: transform 0.2s, left 0.2s, -webkit-transform 0.2s;
+}
+.swiper-container-horizontal.swiper-container-rtl[_ngcontent-sc189]
+  > .swiper-pagination-bullets-dynamic[_ngcontent-sc189]
+  .swiper-pagination-bullet[_ngcontent-sc189] {
+  transition: right 0.2s, -webkit-transform 0.2s;
+  transition: transform 0.2s, right 0.2s;
+  transition: transform 0.2s, right 0.2s, -webkit-transform 0.2s;
+}
+.swiper-pagination-progressbar[_ngcontent-sc189] {
+  background: #00000040;
+  position: absolute;
+}
+.swiper-pagination-progressbar[_ngcontent-sc189]
+  .swiper-pagination-progressbar-fill[_ngcontent-sc189] {
+  background: #007aff;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  transform: scale(0);
+  transform-origin: left top;
+}
+.swiper-container-rtl[_ngcontent-sc189]
+  .swiper-pagination-progressbar[_ngcontent-sc189]
+  .swiper-pagination-progressbar-fill[_ngcontent-sc189] {
+  transform-origin: right top;
+}
+.swiper-container-horizontal[_ngcontent-sc189]
+  > .swiper-pagination-progressbar[_ngcontent-sc189],
+.swiper-container-vertical[_ngcontent-sc189]
+  > .swiper-pagination-progressbar.swiper-pagination-progressbar-opposite[_ngcontent-sc189] {
+  width: 100%;
+  height: 4px;
+  left: 0;
+  top: 0;
+}
+.swiper-container-horizontal[_ngcontent-sc189]
+  > .swiper-pagination-progressbar.swiper-pagination-progressbar-opposite[_ngcontent-sc189],
+.swiper-container-vertical[_ngcontent-sc189]
+  > .swiper-pagination-progressbar[_ngcontent-sc189] {
+  width: 4px;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+.swiper-pagination-white[_ngcontent-sc189]
+  .swiper-pagination-bullet-active[_ngcontent-sc189] {
+  background: #fff;
+}
+.swiper-pagination-progressbar.swiper-pagination-white[_ngcontent-sc189] {
+  background: #ffffff40;
+}
+.swiper-pagination-progressbar.swiper-pagination-white[_ngcontent-sc189]
+  .swiper-pagination-progressbar-fill[_ngcontent-sc189] {
+  background: #fff;
+}
+.swiper-pagination-black[_ngcontent-sc189]
+  .swiper-pagination-bullet-active[_ngcontent-sc189] {
+  background: #000;
+}
+.swiper-pagination-progressbar.swiper-pagination-black[_ngcontent-sc189] {
+  background: #00000040;
+}
+.swiper-pagination-progressbar.swiper-pagination-black[_ngcontent-sc189]
+  .swiper-pagination-progressbar-fill[_ngcontent-sc189] {
+  background: #000;
+}
+.swiper-pagination-lock[_ngcontent-sc189] {
+  display: none;
+}
+.swiper-scrollbar[_ngcontent-sc189] {
+  border-radius: 10px;
+  position: relative;
+  -ms-touch-action: none;
+  background: #0000001a;
+}
+.swiper-container-horizontal[_ngcontent-sc189]
+  > .swiper-scrollbar[_ngcontent-sc189] {
+  position: absolute;
+  left: 1%;
+  bottom: 3px;
+  z-index: 50;
+  height: 5px;
+  width: 98%;
+}
+.swiper-container-vertical[_ngcontent-sc189]
+  > .swiper-scrollbar[_ngcontent-sc189] {
+  position: absolute;
+  right: 3px;
+  top: 1%;
+  z-index: 50;
+  width: 5px;
+  height: 98%;
+}
+.swiper-scrollbar-drag[_ngcontent-sc189] {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background: #00000080;
+  border-radius: 10px;
+  left: 0;
+  top: 0;
+}
+.swiper-scrollbar-cursor-drag[_ngcontent-sc189] {
+  cursor: move;
+}
+.swiper-scrollbar-lock[_ngcontent-sc189] {
+  display: none;
+}
+.swiper-zoom-container[_ngcontent-sc189] {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.swiper-zoom-container[_ngcontent-sc189] > canvas[_ngcontent-sc189],
+.swiper-zoom-container[_ngcontent-sc189] > img[_ngcontent-sc189],
+.swiper-zoom-container[_ngcontent-sc189] > svg[_ngcontent-sc189] {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+.swiper-slide-zoomed[_ngcontent-sc189] {
+  cursor: move;
+}
+.swiper-lazy-preloader[_ngcontent-sc189] {
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -21px;
+  margin-top: -21px;
+  z-index: 10;
+  transform-origin: 50%;
+  animation: swiper-preloader-spin 1s steps(12) infinite;
+}
+.swiper-lazy-preloader[_ngcontent-sc189]:after {
+  display: block;
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox%3D'0%200%20120%20120'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20xmlns%3Axlink%3D'http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink'%3E%3Cdefs%3E%3Cline%20id%3D'l'%20x1%3D'60'%20x2%3D'60'%20y1%3D'7'%20y2%3D'27'%20stroke%3D'%236c6c6c'%20stroke-width%3D'11'%20stroke-linecap%3D'round'%2F%3E%3C%2Fdefs%3E%3Cg%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(30%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(60%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(90%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(120%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(150%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.37'%20transform%3D'rotate(180%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.46'%20transform%3D'rotate(210%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.56'%20transform%3D'rotate(240%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.66'%20transform%3D'rotate(270%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.75'%20transform%3D'rotate(300%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.85'%20transform%3D'rotate(330%2060%2C60)'%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+  background-position: 50%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.swiper-lazy-preloader-white[_ngcontent-sc189]:after {
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox%3D'0%200%20120%20120'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20xmlns%3Axlink%3D'http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink'%3E%3Cdefs%3E%3Cline%20id%3D'l'%20x1%3D'60'%20x2%3D'60'%20y1%3D'7'%20y2%3D'27'%20stroke%3D'%23fff'%20stroke-width%3D'11'%20stroke-linecap%3D'round'%2F%3E%3C%2Fdefs%3E%3Cg%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(30%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(60%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(90%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(120%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(150%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.37'%20transform%3D'rotate(180%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.46'%20transform%3D'rotate(210%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.56'%20transform%3D'rotate(240%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.66'%20transform%3D'rotate(270%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.75'%20transform%3D'rotate(300%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.85'%20transform%3D'rotate(330%2060%2C60)'%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+}
+@keyframes swiper-preloader-spin {
+  to {
+    transform: rotate(1turn);
+  }
+}
+.swiper-container[_ngcontent-sc189]
+  .swiper-notification[_ngcontent-sc189] {
+  position: absolute;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  opacity: 0;
+  z-index: -1000;
+}
+.swiper-container-fade.swiper-container-free-mode[_ngcontent-sc189]
+  .swiper-slide[_ngcontent-sc189] {
+  transition-timing-function: ease-out;
+}
+.swiper-container-fade[_ngcontent-sc189] .swiper-slide[_ngcontent-sc189] {
+  pointer-events: none;
+  transition-property: opacity;
+}
+.swiper-container-fade[_ngcontent-sc189]
+  .swiper-slide[_ngcontent-sc189]
+  .swiper-slide[_ngcontent-sc189] {
+  pointer-events: none;
+}
+.swiper-container-fade[_ngcontent-sc189]
+  .swiper-slide-active[_ngcontent-sc189],
+.swiper-container-fade[_ngcontent-sc189]
+  .swiper-slide-active[_ngcontent-sc189]
+  .swiper-slide-active[_ngcontent-sc189] {
+  pointer-events: auto;
+}
+.swiper-container-cube[_ngcontent-sc189] {
+  overflow: visible;
+}
+.swiper-container-cube[_ngcontent-sc189] .swiper-slide[_ngcontent-sc189] {
+  pointer-events: none;
+  backface-visibility: hidden;
+  z-index: 1;
+  visibility: hidden;
+  transform-origin: 0 0;
+  width: 100%;
+  height: 100%;
+}
+.swiper-container-cube[_ngcontent-sc189]
+  .swiper-slide[_ngcontent-sc189]
+  .swiper-slide[_ngcontent-sc189] {
+  pointer-events: none;
+}
+.swiper-container-cube.swiper-container-rtl[_ngcontent-sc189]
+  .swiper-slide[_ngcontent-sc189] {
+  transform-origin: 100% 0;
+}
+.swiper-container-cube[_ngcontent-sc189]
+  .swiper-slide-active[_ngcontent-sc189],
+.swiper-container-cube[_ngcontent-sc189]
+  .swiper-slide-active[_ngcontent-sc189]
+  .swiper-slide-active[_ngcontent-sc189] {
+  pointer-events: auto;
+}
+.swiper-container-cube[_ngcontent-sc189]
+  .swiper-slide-active[_ngcontent-sc189],
+.swiper-container-cube[_ngcontent-sc189]
+  .swiper-slide-next[_ngcontent-sc189],
+.swiper-container-cube[_ngcontent-sc189]
+  .swiper-slide-next[_ngcontent-sc189]
+  + .swiper-slide[_ngcontent-sc189],
+.swiper-container-cube[_ngcontent-sc189]
+  .swiper-slide-prev[_ngcontent-sc189] {
+  pointer-events: auto;
+  visibility: visible;
+}
+.swiper-container-cube[_ngcontent-sc189]
+  .swiper-slide-shadow-bottom[_ngcontent-sc189],
+.swiper-container-cube[_ngcontent-sc189]
+  .swiper-slide-shadow-left[_ngcontent-sc189],
+.swiper-container-cube[_ngcontent-sc189]
+  .swiper-slide-shadow-right[_ngcontent-sc189],
+.swiper-container-cube[_ngcontent-sc189]
+  .swiper-slide-shadow-top[_ngcontent-sc189] {
+  z-index: 0;
+  backface-visibility: hidden;
+}
+.swiper-container-cube[_ngcontent-sc189]
+  .swiper-cube-shadow[_ngcontent-sc189] {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  opacity: 0.6;
+  filter: blur(50px);
+  z-index: 0;
+}
+.swiper-container-flip[_ngcontent-sc189] {
+  overflow: visible;
+}
+.swiper-container-flip[_ngcontent-sc189] .swiper-slide[_ngcontent-sc189] {
+  pointer-events: none;
+  backface-visibility: hidden;
+  z-index: 1;
+}
+.swiper-container-flip[_ngcontent-sc189]
+  .swiper-slide[_ngcontent-sc189]
+  .swiper-slide[_ngcontent-sc189] {
+  pointer-events: none;
+}
+.swiper-container-flip[_ngcontent-sc189]
+  .swiper-slide-active[_ngcontent-sc189],
+.swiper-container-flip[_ngcontent-sc189]
+  .swiper-slide-active[_ngcontent-sc189]
+  .swiper-slide-active[_ngcontent-sc189] {
+  pointer-events: auto;
+}
+.swiper-container-flip[_ngcontent-sc189]
+  .swiper-slide-shadow-bottom[_ngcontent-sc189],
+.swiper-container-flip[_ngcontent-sc189]
+  .swiper-slide-shadow-left[_ngcontent-sc189],
+.swiper-container-flip[_ngcontent-sc189]
+  .swiper-slide-shadow-right[_ngcontent-sc189],
+.swiper-container-flip[_ngcontent-sc189]
+  .swiper-slide-shadow-top[_ngcontent-sc189] {
+  z-index: 0;
+  backface-visibility: hidden;
+}
+.swiper-container-coverflow[_ngcontent-sc189]
+  .swiper-wrapper[_ngcontent-sc189] {
+  -ms-perspective: 1200px;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189] {
+  padding: 1.5rem 0 0;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189] {
+    padding: 5rem 0 0.5rem;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading-title[_ngcontent-sc189] {
+  margin-bottom: 40px;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .heading-title[_ngcontent-sc189] {
+    margin-bottom: 80px;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  h2[_ngcontent-sc189] {
+  margin-bottom: 15px;
+}
+@media (min-width: 480px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    h2[_ngcontent-sc189] {
+    margin-bottom: 30px;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading[_ngcontent-sc189] {
+  font-size: 14px;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .heading[_ngcontent-sc189] {
+    border-bottom: 1px solid #dfe6e9;
+    margin: 0;
+  }
+}
+@media (min-width: 1200px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .heading[_ngcontent-sc189] {
+    font-size: 16px;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading--payment-method[_ngcontent-sc189] {
+  font-size: 14px;
+  padding: 35px 0;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading[_ngcontent-sc189]
+  .sub-title[_ngcontent-sc189] {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 120%;
+  color: #636e72;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .heading[_ngcontent-sc189]
+    .sub-title[_ngcontent-sc189] {
+    padding: 23px 20px;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading[_ngcontent-sc189]
+  .has-divider[_ngcontent-sc189] {
+  border-left: 1px solid #dfe6e9;
+  padding: 0;
+}
+[lang="ar"][_nghost-sc189]
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading[_ngcontent-sc189]
+  .has-divider[_ngcontent-sc189],
+[lang="ar"]
+  [_nghost-sc189]
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading[_ngcontent-sc189]
+  .has-divider[_ngcontent-sc189] {
+  border-left: none;
+  border-right: 1px solid #dfe6e9;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading[_ngcontent-sc189]
+  .has-divider[_ngcontent-sc189]
+  .title[_ngcontent-sc189] {
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  font-size: 22px;
+  line-height: 120%;
+  color: #2d3436;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .heading[_ngcontent-sc189]
+    .has-divider[_ngcontent-sc189]
+    .title[_ngcontent-sc189] {
+    border-bottom: 1px solid #dfe6e9;
+    padding: 28px;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading[_ngcontent-sc189]
+  [class*="col-"][_ngcontent-sc189]:first-child {
+  border-left: none;
+}
+[lang="ar"][_nghost-sc189]
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading[_ngcontent-sc189]
+  [class*="col-"][_ngcontent-sc189]:first-child,
+[lang="ar"]
+  [_nghost-sc189]
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading[_ngcontent-sc189]
+  [class*="col-"][_ngcontent-sc189]:first-child {
+  border-right: none;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading[_ngcontent-sc189]
+  [class*="col-"][_ngcontent-sc189]:first-child
+  .title[_ngcontent-sc189] {
+  padding-left: 0;
+}
+[lang="ar"][_nghost-sc189]
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading[_ngcontent-sc189]
+  [class*="col-"][_ngcontent-sc189]:first-child
+  .title[_ngcontent-sc189],
+[lang="ar"]
+  [_nghost-sc189]
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading[_ngcontent-sc189]
+  [class*="col-"][_ngcontent-sc189]:first-child
+  .title[_ngcontent-sc189] {
+  padding-left: 20px;
+  padding-right: 0;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading[_ngcontent-sc189]
+  .title-mobile[_ngcontent-sc189] {
+  margin-top: 20px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .text-size-h3[_ngcontent-sc189] {
+  margin: 0;
+  font-weight: 300;
+  font-size: 30px;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .links-holder[_ngcontent-sc189] {
+  padding: 10px 0;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .links-holder[_ngcontent-sc189] {
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .links-holder[_ngcontent-sc189]
+  a[_ngcontent-sc189] {
+  margin-bottom: 15px;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .links-holder[_ngcontent-sc189]
+    a[_ngcontent-sc189] {
+    margin-bottom: 0;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .links-holder[_ngcontent-sc189]
+  .btn-link[_ngcontent-sc189]
+  i[_ngcontent-sc189] {
+  width: 25px;
+  text-align: center;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .link-pdf[_ngcontent-sc189] {
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .link-pdf[_ngcontent-sc189] {
+    font-size: 14px;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .link-pdf[_ngcontent-sc189]
+  img[_ngcontent-sc189] {
+  margin-right: 10px;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .title-sm[_ngcontent-sc189] {
+  margin-bottom: 15px;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .currency-holder[_ngcontent-sc189] {
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .currency-holder[_ngcontent-sc189] {
+    margin-bottom: 0;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .table-block[_ngcontent-sc189] {
+  width: 100%;
+  margin-bottom: 40px;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .table-block[_ngcontent-sc189] {
+    margin-bottom: 0;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .table-block[_ngcontent-sc189]
+  th[_ngcontent-sc189] {
+  font-weight: 400;
+  font-size: 22px;
+  width: 50%;
+  color: #2d3436;
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  vertical-align: top;
+  padding: 0 0 15px;
+  border-bottom: 1px solid #dfe6e9;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .table-block[_ngcontent-sc189]
+  td[_ngcontent-sc189] {
+  padding: 25px 15px 5px 0;
+  font-size: 14px;
+  width: 25%;
+  vertical-align: top;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .table-block[_ngcontent-sc189]
+  td.sub-title[_ngcontent-sc189] {
+  font-size: 16px;
+  padding: 18px 15px 18px 0;
+  border-bottom: 1px solid #dfe6e9;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading-mobile[_ngcontent-sc189] {
+  border-bottom: 1px solid #dfe6e9;
+  padding: 10px 0;
+  margin-bottom: 15px;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading-mobile.space-right[_ngcontent-sc189] {
+  margin-right: -20px;
+  padding-right: 20px;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .heading-mobile.space-left[_ngcontent-sc189] {
+  margin-left: -20px;
+  padding-left: 20px;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .collapse-section[_ngcontent-sc189] {
+  font-size: 14px;
+  position: relative;
+  z-index: 1;
+  border-bottom: 1px solid #dfe6e9;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .collapse-section[_ngcontent-sc189] {
+    border: none;
+  }
+}
+@media (max-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .collapse-section.show[_ngcontent-sc189] {
+    background: #fafbfb;
+    border: none;
+  }
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .collapse-section.show[_ngcontent-sc189]:after,
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .collapse-section.show[_ngcontent-sc189]:before {
+    content: "";
+    height: 2px;
+    left: 0;
+    right: 0;
+    position: absolute;
+    background: #303135;
+  }
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .collapse-section.show[_ngcontent-sc189]:before {
+    display: none;
+  }
+}
+@media (max-width: 1024px) and (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .collapse-section.show[_ngcontent-sc189]:before {
+    top: -1px;
+    display: block;
+  }
+}
+@media (max-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .collapse-section.show[_ngcontent-sc189]:after {
+    bottom: 0;
+  }
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .collapse-section.show[_ngcontent-sc189]
+    .collapse-mobile[_ngcontent-sc189] {
+    border-top: 2px solid #303135;
+    display: block;
+  }
+}
+@media (max-width: 1024px) and (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .collapse-section.show[_ngcontent-sc189]
+    .collapse-mobile[_ngcontent-sc189] {
+    border: none;
+  }
+}
+@media (max-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .collapse-section.show[_ngcontent-sc189]
+    .content-information[_ngcontent-sc189] {
+    display: block;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .collapse-section[_ngcontent-sc189]
+  p[_ngcontent-sc189]:last-child {
+  margin-bottom: 0;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .collapse-mobile[_ngcontent-sc189] {
+  display: none;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .collapse-mobile[_ngcontent-sc189] {
+    display: block;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .currency[_ngcontent-sc189] {
+  font-size: 12px;
+  line-height: 1.2rem;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .content-information[_ngcontent-sc189] {
+  padding: 35px 0 50px;
+  font-size: 14px;
+  display: none;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .content-information[_ngcontent-sc189]
+  .row[_ngcontent-sc189] {
+  position: relative;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .content-information[_ngcontent-sc189]
+  .opener[_ngcontent-sc189] {
+  display: none;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .content-information[_ngcontent-sc189]
+    .opener[_ngcontent-sc189] {
+    display: block;
+    position: absolute;
+    top: 5px;
+    right: 20px;
+    z-index: 9999;
+    border-color: #303135;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .logos[_ngcontent-sc189] {
+  text-align: center;
+  padding: 20px 0;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .logos[_ngcontent-sc189] {
+    padding: 0 20px;
+    display: block;
+    background: none;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .logos[_ngcontent-sc189]
+  .logo-image[_ngcontent-sc189] {
+  margin: 0 5px;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .logos[_ngcontent-sc189]
+    .logo-image[_ngcontent-sc189] {
+    margin: 0;
+  }
+  .fx-section--deposit-methods-swiper[_ngcontent-sc189]
+    .logos[_ngcontent-sc189]
+    .logo-image[_ngcontent-sc189]:not(:first-child) {
+    margin: 15px 20px 0;
+  }
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .logos[_ngcontent-sc189]
+  .logo-image[_ngcontent-sc189]
+  img[_ngcontent-sc189] {
+  max-width: 153px;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .logos[_ngcontent-sc189]
+  .acceptedCurrencies[_ngcontent-sc189] {
+  margin-top: 20px;
+  font-size: 13px;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .notes[_ngcontent-sc189] {
+  padding: 3rem 20px 2.5rem;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .notes[_ngcontent-sc189]
+  .note[_ngcontent-sc189] {
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+.fx-section--deposit-methods-swiper[_ngcontent-sc189]
+  .notes[_ngcontent-sc189]
+  .note[_ngcontent-sc189]
+  i {
+  font-size: 21px;
+  display: inline-block;
+  vertical-align: middle;
+  color: #a58c66;
+  margin-right: 10px;
+}
+.info-popup[_ngcontent-sc189] {
+  width: 20px;
+  height: 20px;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: -10px;
+  transform: translateY(-50%);
+}
+[lang="ar"][_nghost-sc189] .info-popup[_ngcontent-sc189],
+[lang="ar"] [_nghost-sc189] .info-popup[_ngcontent-sc189] {
+  margin-right: 0;
+  margin-left: -10px;
+}
+.info-popup[_ngcontent-sc189] .tooltip[_ngcontent-sc189] {
+  display: none;
+  opacity: 0;
+  background: #fff;
+  border: 1px solid #eee;
+  padding: 5px;
+  bottom: 25px;
+  position: absolute;
+  left: 50%;
+  z-index: 9;
+  font-size: 12px;
+  transform: translateX(-50%);
+  text-align: left;
+  width: 226px;
+  box-shadow: 1px 2px 5px #0003;
+}
+[lang="ar"][_nghost-sc189]
+  .info-popup[_ngcontent-sc189]
+  .tooltip[_ngcontent-sc189],
+[lang="ar"]
+  [_nghost-sc189]
+  .info-popup[_ngcontent-sc189]
+  .tooltip[_ngcontent-sc189] {
+  text-align: right;
+}
+@media (min-width: 1024px) {
+  .info-popup[_ngcontent-sc189] .tooltip[_ngcontent-sc189] {
+    left: 0;
+    bottom: 27px;
+    transform: none;
+  }
+  [lang="ar"][_nghost-sc189]
+    .info-popup[_ngcontent-sc189]
+    .tooltip[_ngcontent-sc189],
+  [lang="ar"]
+    [_nghost-sc189]
+    .info-popup[_ngcontent-sc189]
+    .tooltip[_ngcontent-sc189] {
+    left: auto;
+    right: 0;
+  }
+}
+.info-popup[_ngcontent-sc189]:hover .tooltip[_ngcontent-sc189] {
+  display: block;
+  opacity: 1;
+}
+[lang="ar"] .fx-section--deposit-methods-swiper .link-pdf img {
+  margin-left: 10px !important;
+  margin-right: 0 !important;
+}
+[lang="ar"] .fx-section--deposit-methods-swiper .table-block td {
+  padding: 10px 0 5px 10px !important;
+}
+@media (min-width: 1024px) {
+  [lang="ar"]
+    .fx-section--deposit-methods-swiper
+    .content-information
+    .opener {
+    left: 20px !important;
+    right: auto !important;
+  }
+}
+@media (min-width: 1200px) {
+  [lang="ar"]
+    .fx-section--deposit-methods-swiper
+    .content-information
+    .opener {
+    left: 0 !important;
+  }
+}
+@media (min-width: 1024px) {
+  [lang="ar"] .fx-section--deposit-methods-swiper .tabs__item {
+    padding: 20px 0 20px 20px !important;
+  }
+}
+[lang="ar"] .fx-section--deposit-methods-swiper .tabs__item:after {
+  left: auto !important;
+  right: 0 !important;
+}
+@media (min-width: 1024px) {
+  [lang="ar"] .fx-section--deposit-methods-swiper .tabs__item i {
+    margin-left: 16px !important;
+    margin-right: 0 !important;
+  }
+}
+[lang="ar"] .fx-section--deposit-methods-swiper .notes .note i {
+  margin-left: 10px !important;
+  margin-right: 0 !important;
+}
+</style>
+<style ng-transition="ng-cli-universal">
+.footnotes[_ngcontent-sc133] {
+  font-size: 0.8571rem;
+  padding: 2.4285rem 0;
+  border-top: 1px solid #929daa38;
+}
+@media (min-width: 480px) {
+  .footnotes[_ngcontent-sc133] {
+    font-size: 0.6875rem;
+    padding: 1.5rem 0;
+  }
+}
+@media (min-width: 1024px) {
+  .footnotes[_ngcontent-sc133] {
+    padding: 2.5rem 0;
+  }
+}
+.footnotes[_ngcontent-sc133] p[_ngcontent-sc133] {
+  padding-left: 7px;
+  position: relative;
+  margin-bottom: 1rem;
+}
+.footnotes[_ngcontent-sc133] p[_ngcontent-sc133]:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: 480px) {
+  .footnotes[_ngcontent-sc133] p[_ngcontent-sc133] {
+    margin-bottom: 0;
+  }
+}
+.footnotes[_ngcontent-sc133] .sup[_ngcontent-sc133] {
+  font-size: 0.625rem;
+  position: absolute;
+  top: -5px;
+  left: 0;
+  margin-right: 3px;
+}
+[lang="ar"] .footnotes p {
+  padding-right: 7px !important;
+  padding-left: 0 !important;
+}
+[lang="ar"] .footnotes .sup {
+  left: auto !important;
+  right: 0 !important;
+  margin-left: 3px !important;
+  margin-right: 0 !important;
+}
+</style>
+<style ng-transition="ng-cli-universal">
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191] {
+  border-top: 1px solid #3031351a;
+  margin-bottom: 40px;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .item[_ngcontent-sc191] {
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  justify-content: space-between;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .item.collapsed[_ngcontent-sc191] {
+  z-index: 2;
+  overflow: visible;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .title[_ngcontent-sc191] {
+  font-size: 16px;
+  color: #303135;
+  padding: 5px 20px 5px 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 500;
+  cursor: pointer;
+  position: relative;
+  min-height: 60px;
+  border-bottom: 1px solid #3031351a;
+  transition: color 0.25s ease-in-out;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-questions[_ngcontent-sc191]
+    .accordion[_ngcontent-sc191]
+    .title[_ngcontent-sc191] {
+    height: 80px;
+    font-size: 20px;
+  }
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .title[_ngcontent-sc191]
+  i[_ngcontent-sc191] {
+  display: inline-block;
+  color: #2d3436;
+  transform: rotate(90deg);
+  margin-left: 20px;
+  position: static;
+  top: -23px;
+  right: -20px;
+  font-size: 12px;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .description[_ngcontent-sc191] {
+  background: #30313508;
+  height: 0;
+  font-size: 0;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .collapsed[_ngcontent-sc191]
+  .title[_ngcontent-sc191] {
+  border-bottom-color: #0000;
+  color: #2d3436;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .collapsed[_ngcontent-sc191]
+  i[_ngcontent-sc191] {
+  transform: rotate(-90deg);
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .collapsed[_ngcontent-sc191]
+  .description[_ngcontent-sc191] {
+  height: auto;
+  font-size: 14px;
+  animation-duration: 0.25s;
+  animation-fill-mode: both;
+  animation-name: fx-animation-showUpOpacity;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-questions[_ngcontent-sc191]
+    .accordion[_ngcontent-sc191]
+    .collapsed[_ngcontent-sc191]
+    .description[_ngcontent-sc191] {
+    font-size: 16px;
+  }
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .article-content[_ngcontent-sc191] {
+  padding: 20px;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-questions[_ngcontent-sc191]
+    .accordion[_ngcontent-sc191]
+    .article-content[_ngcontent-sc191] {
+    padding: 60px 100px 50px;
+  }
+  .fx-section--deposit-questions[_ngcontent-sc191]
+    .accordion[_ngcontent-sc191]
+    .text-entry[_ngcontent-sc191] {
+    margin-bottom: 20px;
+  }
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .text-entry[_ngcontent-sc191]
+  h1[_ngcontent-sc191] {
+  font-size: 1.75rem;
+  line-height: 1.2142857143;
+}
+@media (min-width: 480px) {
+  .fx-section--deposit-questions[_ngcontent-sc191]
+    .accordion[_ngcontent-sc191]
+    .text-entry[_ngcontent-sc191]
+    h1[_ngcontent-sc191] {
+    font-size: 2.2857142857rem;
+    line-height: 1.0625;
+  }
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-questions[_ngcontent-sc191]
+    .accordion[_ngcontent-sc191]
+    .text-entry[_ngcontent-sc191]
+    h1[_ngcontent-sc191] {
+    font-size: 2.25rem;
+    line-height: 1.2777777778;
+  }
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .text-entry[_ngcontent-sc191]
+  img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .text-entry[_ngcontent-sc191]
+  ol
+  li {
+  margin-bottom: 15px;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .text-entry[_ngcontent-sc191]
+  ol
+  li:last-child {
+  margin-bottom: 9px;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .accordion[_ngcontent-sc191]
+  .text-entry[_ngcontent-sc191]
+  p[_ngcontent-sc191]:last-child {
+  margin-bottom: 0;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .video-block[_ngcontent-sc191] {
+  padding-top: 40px;
+  border-top: 1px solid #3031351a;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .video-block[_ngcontent-sc191]
+  .video-card[_ngcontent-sc191] {
+  max-width: 270px;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+  border-radius: 3px;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .video-block[_ngcontent-sc191]
+  .video-card[_ngcontent-sc191]
+  img[_ngcontent-sc191] {
+  width: 100%;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .video-block[_ngcontent-sc191]
+  .video-card[_ngcontent-sc191]
+  .video-thumb[_ngcontent-sc191] {
+  position: absolute;
+  font-size: 44px;
+  line-height: 1;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .btn-primary[_ngcontent-sc191] {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media (min-width: 1024px) {
+  .fx-section--deposit-questions[_ngcontent-sc191]
+    .btn-primary[_ngcontent-sc191] {
+    height: 80px;
+  }
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .btn-primary[_ngcontent-sc191]
+  i[_ngcontent-sc191] {
+  margin-left: 10px;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .btn-primary[_ngcontent-sc191]:hover
+  i[_ngcontent-sc191] {
+  color: #fff;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .pdf-download-card__title {
+  font-size: 16px;
+  color: #2d3436;
+  margin-bottom: 25px;
+  font-weight: 500;
+  font-family: Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+}
+.fx-section--deposit-questions[_ngcontent-sc191] .pdf-download-card {
+  display: block;
+}
+.fx-section--deposit-questions[_ngcontent-sc191] .card__link {
+  display: inline-flex;
+}
+.fx-section--deposit-questions[_ngcontent-sc191]
+  .pdf-download-card__link {
+  font-size: 14px;
+}
+</style>
+<style ng-transition="ng-cli-universal">
+.ng-select.ng-select-opened[_ngcontent-sc190]
+  > .ng-select-container[_ngcontent-sc190] {
+  background: #fff;
+  border-color: #b3b3b3 #ccc #d9d9d9;
+}
+.ng-select.ng-select-opened[_ngcontent-sc190]
+  > .ng-select-container[_ngcontent-sc190]:hover {
+  box-shadow: none;
+}
+.ng-select.ng-select-opened[_ngcontent-sc190]
+  > .ng-select-container[_ngcontent-sc190]
+  .ng-arrow[_ngcontent-sc190] {
+  top: -2px;
+  border-color: #0000 #0000 #999;
+  border-width: 0 5px 5px;
+}
+.ng-select.ng-select-opened[_ngcontent-sc190]
+  > .ng-select-container[_ngcontent-sc190]
+  .ng-arrow[_ngcontent-sc190]:hover {
+  border-color: #0000 #0000 #333;
+}
+.ng-select.ng-select-opened.ng-select-bottom[_ngcontent-sc190]
+  > .ng-select-container[_ngcontent-sc190] {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.ng-select.ng-select-opened.ng-select-top[_ngcontent-sc190]
+  > .ng-select-container[_ngcontent-sc190] {
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+}
+.ng-select.ng-select-focused[_ngcontent-sc190]:not(.ng-select-opened)
+  > .ng-select-container[_ngcontent-sc190] {
+  border-color: #007eff;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 0 3px #007eff1a;
+}
+.ng-select.ng-select-disabled[_ngcontent-sc190]
+  > .ng-select-container[_ngcontent-sc190] {
+  background-color: #f9f9f9;
+}
+.ng-select[_ngcontent-sc190]
+  .ng-has-value[_ngcontent-sc190]
+  .ng-placeholder[_ngcontent-sc190] {
+  display: none;
+}
+.ng-select[_ngcontent-sc190] .ng-select-container[_ngcontent-sc190] {
+  color: #333;
+  background-color: #fff;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  min-height: 36px;
+  align-items: center;
+}
+.ng-select[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]:hover {
+  box-shadow: 0 1px 0 #0000000f;
+}
+.ng-select[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190] {
+  align-items: center;
+  padding-left: 10px;
+}
+[dir="rtl"][_ngcontent-sc190]
+  .ng-select[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190] {
+  padding-right: 10px;
+  padding-left: 0;
+}
+.ng-select[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-placeholder[_ngcontent-sc190] {
+  color: #999;
+}
+.ng-select.ng-select-single[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190] {
+  height: 36px;
+}
+.ng-select.ng-select-single[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-input[_ngcontent-sc190] {
+  top: 5px;
+  left: 0;
+  padding-left: 10px;
+  padding-right: 50px;
+}
+[dir="rtl"][_ngcontent-sc190]
+  .ng-select.ng-select-single[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-input[_ngcontent-sc190] {
+  padding-right: 10px;
+  padding-left: 50px;
+}
+.ng-select.ng-select-multiple.ng-select-disabled[_ngcontent-sc190]
+  > .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value[_ngcontent-sc190] {
+  background-color: #f9f9f9;
+  border: 1px solid #e6e6e6;
+}
+.ng-select.ng-select-multiple.ng-select-disabled[_ngcontent-sc190]
+  > .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value[_ngcontent-sc190]
+  .ng-value-label[_ngcontent-sc190] {
+  padding: 0 5px;
+}
+.ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190] {
+  padding-top: 5px;
+  padding-left: 7px;
+}
+[dir="rtl"][_ngcontent-sc190]
+  .ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190] {
+  padding-right: 7px;
+  padding-left: 0;
+}
+.ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value[_ngcontent-sc190] {
+  font-size: 0.9em;
+  margin-bottom: 5px;
+  background-color: #ebf5ff;
+  border-radius: 2px;
+  margin-right: 5px;
+}
+[dir="rtl"][_ngcontent-sc190]
+  .ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value[_ngcontent-sc190] {
+  margin-right: 0;
+  margin-left: 5px;
+}
+.ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value.ng-value-disabled[_ngcontent-sc190] {
+  background-color: #f9f9f9;
+}
+.ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value.ng-value-disabled[_ngcontent-sc190]
+  .ng-value-label[_ngcontent-sc190] {
+  padding-left: 5px;
+}
+[dir="rtl"][_ngcontent-sc190]
+  .ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value.ng-value-disabled[_ngcontent-sc190]
+  .ng-value-label[_ngcontent-sc190] {
+  padding-left: 0;
+  padding-right: 5px;
+}
+.ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value[_ngcontent-sc190]
+  .ng-value-icon[_ngcontent-sc190],
+.ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value[_ngcontent-sc190]
+  .ng-value-label[_ngcontent-sc190] {
+  display: inline-block;
+  padding: 1px 5px;
+}
+.ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value[_ngcontent-sc190]
+  .ng-value-icon[_ngcontent-sc190]:hover {
+  background-color: #d1e8ff;
+}
+.ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value[_ngcontent-sc190]
+  .ng-value-icon.left[_ngcontent-sc190] {
+  border-right: 1px solid #b8dbff;
+}
+[dir="rtl"][_ngcontent-sc190]
+  .ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value[_ngcontent-sc190]
+  .ng-value-icon.left[_ngcontent-sc190] {
+  border-left: 1px solid #b8dbff;
+  border-right: none;
+}
+.ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value[_ngcontent-sc190]
+  .ng-value-icon.right[_ngcontent-sc190] {
+  border-left: 1px solid #b8dbff;
+}
+[dir="rtl"][_ngcontent-sc190]
+  .ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-value[_ngcontent-sc190]
+  .ng-value-icon.right[_ngcontent-sc190] {
+  border-left: 0;
+  border-right: 1px solid #b8dbff;
+}
+.ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-input[_ngcontent-sc190] {
+  padding: 0 0 3px 3px;
+}
+[dir="rtl"][_ngcontent-sc190]
+  .ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-input[_ngcontent-sc190] {
+  padding: 0 3px 3px 0;
+}
+.ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-placeholder[_ngcontent-sc190] {
+  top: 5px;
+  padding-bottom: 5px;
+  padding-left: 3px;
+}
+[dir="rtl"][_ngcontent-sc190]
+  .ng-select.ng-select-multiple[_ngcontent-sc190]
+  .ng-select-container[_ngcontent-sc190]
+  .ng-value-container[_ngcontent-sc190]
+  .ng-placeholder[_ngcontent-sc190] {
+  padding-right: 3px;
+  padding-left: 0;
+}
+.ng-select[_ngcontent-sc190] .ng-clear-wrapper[_ngcontent-sc190] {
+  color: #999;
+}
+.ng-select[_ngcontent-sc190]
+  .ng-clear-wrapper[_ngcontent-sc190]:hover
+  .ng-clear[_ngcontent-sc190] {
+  color: #d0021b;
+}
+.ng-select[_ngcontent-sc190] .ng-spinner-zone[_ngcontent-sc190] {
+  padding: 5px 5px 0 0;
+}
+[dir="rtl"][_ngcontent-sc190]
+  .ng-select[_ngcontent-sc190]
+  .ng-spinner-zone[_ngcontent-sc190] {
+  padding: 5px 0 0 5px;
+}
+.ng-select[_ngcontent-sc190] .ng-arrow-wrapper[_ngcontent-sc190] {
+  width: 25px;
+  padding-right: 5px;
+}
+[dir="rtl"][_ngcontent-sc190]
+  .ng-select[_ngcontent-sc190]
+  .ng-arrow-wrapper[_ngcontent-sc190] {
+  padding-left: 5px;
+  padding-right: 0;
+}
+.ng-select[_ngcontent-sc190]
+  .ng-arrow-wrapper[_ngcontent-sc190]:hover
+  .ng-arrow[_ngcontent-sc190] {
+  border-top-color: #666;
+}
+.ng-select[_ngcontent-sc190]
+  .ng-arrow-wrapper[_ngcontent-sc190]
+  .ng-arrow[_ngcontent-sc190] {
+  border-color: #999 #0000 #0000;
+  border-style: solid;
+  border-width: 5px 5px 2.5px;
+}
+.ng-dropdown-panel[_ngcontent-sc190] {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 1px 0 #0000000f;
+  left: 0;
+}
+.ng-dropdown-panel.ng-select-bottom[_ngcontent-sc190] {
+  top: 100%;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-top-color: #e6e6e6;
+  margin-top: -1px;
+}
+.ng-dropdown-panel.ng-select-bottom[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-option[_ngcontent-sc190]:last-child {
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+.ng-dropdown-panel.ng-select-top[_ngcontent-sc190] {
+  bottom: 100%;
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+  border-bottom-color: #e6e6e6;
+  margin-bottom: -1px;
+}
+.ng-dropdown-panel.ng-select-top[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-option[_ngcontent-sc190]:first-child {
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+}
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-header[_ngcontent-sc190] {
+  border-bottom: 1px solid #ccc;
+  padding: 5px 7px;
+}
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-footer[_ngcontent-sc190] {
+  border-top: 1px solid #ccc;
+  padding: 5px 7px;
+}
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-optgroup[_ngcontent-sc190] {
+  -webkit-user-select: none;
+  user-select: none;
+  padding: 8px 10px;
+  font-weight: 500;
+  color: #0000008a;
+  cursor: pointer;
+}
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-optgroup.ng-option-disabled[_ngcontent-sc190] {
+  cursor: default;
+}
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-optgroup.ng-option-marked[_ngcontent-sc190] {
+  background-color: #f5faff;
+}
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-optgroup.ng-option-selected[_ngcontent-sc190],
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-optgroup.ng-option-selected.ng-option-marked[_ngcontent-sc190] {
+  background-color: #ebf5ff;
+  font-weight: 600;
+}
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-option[_ngcontent-sc190] {
+  background-color: #fff;
+  color: #000000de;
+  padding: 8px 10px;
+}
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-option.ng-option-selected[_ngcontent-sc190],
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-option.ng-option-selected.ng-option-marked[_ngcontent-sc190] {
+  color: #333;
+  background-color: #ebf5ff;
+}
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-option.ng-option-selected[_ngcontent-sc190]
+  .ng-option-label[_ngcontent-sc190],
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-option.ng-option-selected.ng-option-marked[_ngcontent-sc190]
+  .ng-option-label[_ngcontent-sc190] {
+  font-weight: 600;
+}
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-option.ng-option-marked[_ngcontent-sc190] {
+  background-color: #f5faff;
+  color: #333;
+}
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-option.ng-option-disabled[_ngcontent-sc190] {
+  color: #ccc;
+}
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-option.ng-option-child[_ngcontent-sc190] {
+  padding-left: 22px;
+}
+[dir="rtl"][_ngcontent-sc190]
+  .ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-option.ng-option-child[_ngcontent-sc190] {
+  padding-right: 22px;
+  padding-left: 0;
+}
+.ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-option[_ngcontent-sc190]
+  .ng-tag-label[_ngcontent-sc190] {
+  font-size: 80%;
+  font-weight: 400;
+  padding-right: 5px;
+}
+[dir="rtl"][_ngcontent-sc190]
+  .ng-dropdown-panel[_ngcontent-sc190]
+  .ng-dropdown-panel-items[_ngcontent-sc190]
+  .ng-option[_ngcontent-sc190]
+  .ng-tag-label[_ngcontent-sc190] {
+  padding-left: 5px;
+  padding-right: 0;
+}
+[dir="rtl"][_ngcontent-sc190] .ng-dropdown-panel[_ngcontent-sc190] {
+  direction: rtl;
+  text-align: right;
+}
+.search-widget[_ngcontent-sc190] .form-group[_ngcontent-sc190] {
+  margin-bottom: 15px;
+  position: relative;
+}
+.search-widget[_ngcontent-sc190] .form-control[_ngcontent-sc190] {
+  width: 100%;
+  display: block;
+  font-size: 16px;
+  background: #fff;
+  padding: 13px 60px 13px 24px;
+  border: none;
+  height: 48px;
+  border-radius: 3px;
+  box-shadow: 0 3px 18px 0 #00000017;
+  color: #2d3436;
+}
+.search-widget[_ngcontent-sc190]
+  .form-control[_ngcontent-sc190]::-webkit-input-placeholder {
+  color: #b2bec3;
+}
+.search-widget[_ngcontent-sc190]
+  .form-control[_ngcontent-sc190]:-moz-placeholder,
+.search-widget[_ngcontent-sc190]
+  .form-control[_ngcontent-sc190]::-moz-placeholder {
+  color: #b2bec3;
+}
+.search-widget[_ngcontent-sc190]
+  .form-control[_ngcontent-sc190]:-ms-input-placeholder {
+  color: #b2bec3;
+}
+.search-widget[_ngcontent-sc190]
+  .form-control.autocomplete-visible[_ngcontent-sc190] {
+  border-radius: 3px 3px 0 0;
+}
+.search-widget[_ngcontent-sc190] .form-control[_ngcontent-sc190]:focus {
+  outline: none;
+}
+.search-widget[_ngcontent-sc190] .btn-search[_ngcontent-sc190] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 48px;
+  height: 48px;
+  border-radius: 3px;
+  background: #fff;
+  box-shadow: 0 3px 18px 0 #00000017;
+}
+.search-widget[_ngcontent-sc190]
+  .btn-search[_ngcontent-sc190]
+  svg[_ngcontent-sc190] {
+  width: 14px;
+}
+.search-widget[_ngcontent-sc190] .autocomplete[_ngcontent-sc190] {
+  position: absolute;
+  bottom: 0;
+  background: #fff;
+  color: #2d3436;
+  padding: 0;
+  margin: 0;
+  transform: translateY(100%);
+  left: 0;
+  right: 0;
+  box-shadow: 0 8px 32px 0 #4c536b1c;
+}
+.search-widget[_ngcontent-sc190]
+  .autocomplete[_ngcontent-sc190]
+  a[_ngcontent-sc190] {
+  padding: 12px 20px;
+  display: block;
+  color: #2d3436;
+  margin: 0;
+  transition: background-color 0.2s;
+}
+.search-widget[_ngcontent-sc190]
+  .autocomplete[_ngcontent-sc190]
+  a[_ngcontent-sc190]:hover {
+  color: #2d3436;
+  background: #0000000d;
+}
+.search-widget[_ngcontent-sc190] .ng-dropdown-panel {
+  top: 100%;
+  border-radius: 3px;
+  margin-top: 5px;
+  right: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 0 1px 2px #0000001a;
+}
+.search-widget[_ngcontent-sc190] .ng-dropdown-panel .ng-option {
+  padding: 0.5rem 1.5rem;
+  color: #2d3436;
+}
+.search-widget[_ngcontent-sc190]
+  .ng-dropdown-panel
+  .ng-option.ng-option-marked {
+  background: #dfe6e980;
+}
+.search-widget[_ngcontent-sc190]
+  .ng-dropdown-panel
+  .ng-dropdown-panel-items {
+  max-height: 400px !important;
+}
+.search-widget[_ngcontent-sc190] .ng-placeholder {
+  color: #636e72;
+  font-weight: 300;
+}
+.search-widget[_ngcontent-sc190] .ng-input input {
+  padding: 0;
+  line-height: 1;
+}
+.search-widget.faq[_ngcontent-sc190] {
+  margin-bottom: 30px;
+}
+@media (min-width: 1024px) {
+  .search-widget.faq[_ngcontent-sc190] {
+    margin-bottom: 60px;
+  }
+}
+.search-widget.faq[_ngcontent-sc190] .btn-search[_ngcontent-sc190],
+.search-widget.faq[_ngcontent-sc190] .form-control[_ngcontent-sc190] {
+  box-shadow: none !important;
+  background: #fff !important;
+}
+.search-widget.faq[_ngcontent-sc190] .form-control[_ngcontent-sc190] {
+  font-size: 16px !important;
+}
+.search-widget.faq[_ngcontent-sc190] .form-group[_ngcontent-sc190] {
+  border-radius: 3px;
+  border: 1px solid #b2bec3;
+  margin-bottom: 5px !important;
+}
+.search-widget.faq[_ngcontent-sc190] .btn-search[_ngcontent-sc190] {
+  color: #b2bec3;
+}
+.search-widget.faq[_ngcontent-sc190]
+  .btn-search[_ngcontent-sc190]
+  i[_ngcontent-sc190] {
+  font-size: 21px !important;
+}
+[lang="ar"] .search-widget .form-control {
+  padding: 13px 24px 13px 60px !important;
+}
+[lang="ar"] .search-widget .form-control.autocomplete-visible {
+  border-radius: 3px 0 0 3px !important;
+}
+[lang="ar"] .search-widget .btn-search {
+  right: auto !important;
+  left: 0 !important;
+}
+[lang="ar"] .search-widget .ng-dropdown-panel {
+  right: auto !important;
+  left: 0 !important;
+  padding: 0 !important;
+}
+.holder-form[_ngcontent-sc190] {
+  padding-left: 30px;
+}
+@media (min-width: 1024px) {
+  .holder-form[_ngcontent-sc190] {
+    display: flex;
+    align-items: center;
+  }
+}
+.fx-dropdown__wrapper[_ngcontent-sc190] {
+  margin: 0 0 20px;
+  flex: 1;
+  min-width: 50px;
+}
+@media (min-width: 480px) {
+  .fx-dropdown__wrapper[_ngcontent-sc190] {
+    max-width: 250px;
+  }
+}
+@media (min-width: 1024px) {
+  .fx-dropdown__wrapper[_ngcontent-sc190] {
+    max-width: 100%;
+    display: inline-block;
+    vertical-align: top;
+  }
+  .fx-dropdown__wrapper[_ngcontent-sc190]:not(:first-child) {
+    padding-left: 15px;
+  }
+}
+.fx-dropdown__wrapper[_ngcontent-sc190] .btn-download[_ngcontent-sc190] {
+  padding: 12px 1rem;
+  min-width: 10px;
+}
+.fx-dropdown__toggle[_ngcontent-sc190] {
+  border-bottom: 1px solid #3031351a;
+  width: 100%;
+  min-width: 10px;
+  background: none;
+  box-shadow: none;
+  margin: 0;
+  color: #2d3436;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 0 0 0 10px;
+  min-height: 55px;
+}
+.fx-dropdown__toggle.ng-touched[_ngcontent-sc190]
+  + label[_ngcontent-sc190] {
+  transform: none;
+}
+.fx-dropdown__toggle[_ngcontent-sc190] + .bar[_ngcontent-sc190] {
+  width: 100%;
+  bottom: 0;
+  display: block;
+  height: 1px;
+  background-color: #c8c8c8;
+  transition: height 0.4s;
+  display: flex;
+  justify-content: center;
+}
+.fx-dropdown__toggle[_ngcontent-sc190] + .bar[_ngcontent-sc190]:after {
+  width: 0;
+  bottom: 0;
+  display: block;
+  content: "";
+  height: 3px;
+  border-radius: 1.5px;
+  background-color: #303135;
+  transition: width 0.4s;
+}
+.fx-dropdown__toggle.dropdown-visible[_ngcontent-sc190],
+.fx-dropdown__toggle[_ngcontent-sc190]:focus {
+  border: none;
+  box-shadow: none;
+}
+.fx-dropdown__toggle.dropdown-visible[_ngcontent-sc190]
+  + .bar[_ngcontent-sc190]:after,
+.fx-dropdown__toggle[_ngcontent-sc190]:focus
+  + .bar[_ngcontent-sc190]:after {
+  width: 100%;
+  z-index: 3;
+}
+.faq-warning-message[_ngcontent-sc190] {
+  font-size: 12px;
+}
+</style>

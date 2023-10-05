@@ -1,0 +1,1361 @@
+.fx-section--forex-account-hero[_ngcontent-sc482]
+  .heading-title[_ngcontent-sc482] {
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-account-hero[_ngcontent-sc482]
+    .heading-title[_ngcontent-sc482] {
+    margin-bottom: 90px;
+  }
+}
+.fx-section--forex-account-hero[_ngcontent-sc482]
+  .heading-title[_ngcontent-sc482]
+  h1[_ngcontent-sc482] {
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-account-hero[_ngcontent-sc482]
+    .heading-title[_ngcontent-sc482]
+    h1[_ngcontent-sc482] {
+    margin-bottom: 5px;
+    font-size: 46px;
+  }
+}
+.fx-section--forex-account-hero[_ngcontent-sc482]
+  .heading-title[_ngcontent-sc482]
+  p[_ngcontent-sc482] {
+  margin-bottom: 40px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-account-hero[_ngcontent-sc482]
+    .heading-title[_ngcontent-sc482]
+    p[_ngcontent-sc482] {
+    margin-bottom: 60px;
+  }
+}
+.fx-section--forex-account-hero[_ngcontent-sc482]
+  .btn.btn-large[_ngcontent-sc482] {
+  height: 70px;
+  font-size: 18px;
+  font-family: Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-account-hero[_ngcontent-sc482] .steps[_ngcontent-sc482] {
+    flex-wrap: nowrap;
+  }
+}
+.fx-section--forex-account-hero[_ngcontent-sc482] .step[_ngcontent-sc482] {
+  max-width: 300px;
+  margin: 0 auto 20px;
+  background: #fff;
+  border: 1px solid #3031351a;
+  box-shadow: 0 4px 10px #30313508;
+  border-radius: 5px;
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  height: 310px;
+  color: #636e72;
+  padding: 40px 30px;
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-account-hero[_ngcontent-sc482] .step[_ngcontent-sc482] {
+    padding: 50px 30px;
+    max-width: 100%;
+    margin-bottom: 0;
+  }
+}
+.fx-section--forex-account-hero[_ngcontent-sc482]
+  .step[_ngcontent-sc482]:hover {
+  background-color: #303135;
+}
+.fx-section--forex-account-hero[_ngcontent-sc482]
+  .step[_ngcontent-sc482]:hover
+  .title[_ngcontent-sc482] {
+  color: #fff;
+}
+.fx-section--forex-account-hero[_ngcontent-sc482]
+  .step[_ngcontent-sc482]:hover
+  .title[_ngcontent-sc482]
+  i[_ngcontent-sc482] {
+  color: #fff;
+  opacity: 1;
+}
+.fx-section--forex-account-hero[_ngcontent-sc482]
+  .step[_ngcontent-sc482]:hover
+  i[_ngcontent-sc482],
+.fx-section--forex-account-hero[_ngcontent-sc482]
+  .step[_ngcontent-sc482]:hover
+  p[_ngcontent-sc482] {
+  color: #fff;
+}
+.fx-section--forex-account-hero[_ngcontent-sc482] .step-icon[_ngcontent-sc482] {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto 20px;
+}
+.fx-section--forex-account-hero[_ngcontent-sc482]
+  .step-icon[_ngcontent-sc482]
+  i[_ngcontent-sc482] {
+  color: #2d3436;
+  font-size: 40px;
+}
+.fx-section--forex-account-hero[_ngcontent-sc482]
+  .step[_ngcontent-sc482]
+  .title[_ngcontent-sc482] {
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 1.2;
+  display: inline-block;
+  color: #2d3436;
+  position: relative;
+  margin-bottom: 25px;
+  display: inline-flex;
+  align-items: center;
+  transition: color 0.25s ease-in-out;
+}
+.fx-section--forex-account-hero[_ngcontent-sc482]
+  .step[_ngcontent-sc482]
+  .title[_ngcontent-sc482]
+  i[_ngcontent-sc482] {
+  font-size: 14px;
+  position: absolute;
+  opacity: 0;
+  top: 14px;
+  right: -25px;
+  line-height: 1;
+}
+[lang="ar"][_nghost-sc482]
+  .fx-section--forex-account-hero[_ngcontent-sc482]
+  .step[_ngcontent-sc482]
+  .title[_ngcontent-sc482]
+  i[_ngcontent-sc482],
+[lang="ar"]
+  [_nghost-sc482]
+  .fx-section--forex-account-hero[_ngcontent-sc482]
+  .step[_ngcontent-sc482]
+  .title[_ngcontent-sc482]
+  i[_ngcontent-sc482] {
+  right: auto;
+  left: -25px;
+  transform: rotate(180deg);
+}
+
+.fx-section--forex-open-account-broker[_ngcontent-sc483] {
+  padding-top: 30px;
+}
+.fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .heading-title[_ngcontent-sc483] {
+  color: #2d3436;
+  font-size: 16px;
+  margin-bottom: 35px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .heading-title[_ngcontent-sc483] {
+    margin-bottom: 75px;
+  }
+}
+.fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .heading-title[_ngcontent-sc483]
+  .sup-title[_ngcontent-sc483] {
+  font-size: 26px;
+  font-weight: 500;
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .heading-title[_ngcontent-sc483]
+    .sup-title[_ngcontent-sc483] {
+    font-size: 30px;
+  }
+}
+.fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .heading-title[_ngcontent-sc483]
+  h2[_ngcontent-sc483] {
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .heading-title[_ngcontent-sc483]
+    h2[_ngcontent-sc483] {
+    font-size: 40px;
+  }
+}
+.fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .heading-title[_ngcontent-sc483]
+  p[_ngcontent-sc483]:last-child {
+  margin-bottom: 0;
+}
+.fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .placeholder[_ngcontent-sc483] {
+  margin-bottom: 50px;
+  text-align: center;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .placeholder[_ngcontent-sc483] {
+    margin-bottom: 70px;
+  }
+}
+.fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .placeholder[_ngcontent-sc483]
+  fx-retina-image {
+  max-width: 600px;
+}
+.fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .placeholder[_ngcontent-sc483]
+  fx-retina-image
+  img {
+  width: 100%;
+}
+.fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .block-options[_ngcontent-sc483] {
+  border: 1px solid #3031351a;
+  border-radius: 6px;
+  padding: 45px 30px 14px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .block-options[_ngcontent-sc483] {
+    padding: 0;
+    border-radius: 0;
+    border: none;
+  }
+}
+@media (max-width: 1023.98px) {
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .has-border[_ngcontent-sc483]:last-child
+    .item[_ngcontent-sc483] {
+    border: none;
+  }
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .has-border[_ngcontent-sc483]:last-child
+    .item[_ngcontent-sc483]:last-child {
+    margin-bottom: 0;
+  }
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .has-border[_ngcontent-sc483] {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-right: 1px solid #a7958266;
+  }
+  [dir="ar"][_nghost-sc483]
+    .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .has-border[_ngcontent-sc483],
+  [dir="ar"]
+    [_nghost-sc483]
+    .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .has-border[_ngcontent-sc483] {
+    border-right: none;
+    border-left: 1px solid #a7958266;
+  }
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .has-border[_ngcontent-sc483]:first-child {
+    border-left: 1px solid #a7958266;
+  }
+  [dir="ar"][_nghost-sc483]
+    .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .has-border[_ngcontent-sc483]:first-child,
+  [dir="ar"]
+    [_nghost-sc483]
+    .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .has-border[_ngcontent-sc483]:first-child {
+    border-right: 1px solid #a7958266;
+  }
+}
+.fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .item[_ngcontent-sc483] {
+  position: relative;
+  padding-bottom: 25px;
+  font-weight: 500;
+  font-size: 18px;
+  color: #a79582;
+  line-height: 1.2;
+  display: flex;
+  align-items: center;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .item[_ngcontent-sc483] {
+    margin: 0;
+    padding-bottom: 25px;
+    font-size: 20px;
+    font-family: Futura, Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+      Segoe UI Emoji, Segoe UI Symbol;
+    padding-left: 50px;
+  }
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .item[_ngcontent-sc483]:last-child {
+    padding-bottom: 0;
+  }
+  [lang="ar"][_nghost-sc483]
+    .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .item[_ngcontent-sc483],
+  [lang="ar"]
+    [_nghost-sc483]
+    .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .item[_ngcontent-sc483] {
+    padding-left: 0;
+    padding-right: 50px;
+  }
+}
+.fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .item[_ngcontent-sc483]
+  .icon[_ngcontent-sc483] {
+  margin-right: 18px;
+  flex-shrink: 0;
+  font-size: 32px;
+  line-height: 1;
+}
+[lang="ar"][_nghost-sc483]
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .item[_ngcontent-sc483]
+  .icon[_ngcontent-sc483],
+[lang="ar"]
+  [_nghost-sc483]
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .item[_ngcontent-sc483]
+  .icon[_ngcontent-sc483] {
+  margin-right: 0;
+  margin-left: 18px;
+}
+.fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .item[_ngcontent-sc483]
+  span[_ngcontent-sc483] {
+  display: block;
+  max-width: 200px;
+}
+.fx-section--forex-open-account-broker[_ngcontent-sc483]
+  .item[_ngcontent-sc483]:last-child {
+  border-bottom: 1px solid #dfe6e9;
+  margin-bottom: 30px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-broker[_ngcontent-sc483]
+    .item[_ngcontent-sc483]:last-child {
+    border: none;
+    margin-bottom: 0;
+  }
+}
+
+<style
+  ng-transition="ng-cli-universal"
+  > .fx-section--forex-open-account-register[_ngcontent-sc484] {
+  padding-top: 40px;
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .content-block[_ngcontent-sc484] {
+  margin-bottom: 35px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-register[_ngcontent-sc484]
+    .content-block[_ngcontent-sc484] {
+    margin-bottom: 135px;
+  }
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .image-placeholder[_ngcontent-sc484] {
+  max-width: 320px;
+  margin: 0 auto 60px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-register[_ngcontent-sc484]
+    .image-placeholder[_ngcontent-sc484] {
+    margin-bottom: 0;
+  }
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .image-placeholder[_ngcontent-sc484]
+  img[_ngcontent-sc484] {
+  max-width: 100%;
+  height: auto;
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .image-placeholder[_ngcontent-sc484]
+  .placeholder[_ngcontent-sc484] {
+  text-align: center;
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .image-placeholder[_ngcontent-sc484]
+  .placeholder[_ngcontent-sc484]
+  fx-retina-image {
+  width: 300px;
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .image-placeholder[_ngcontent-sc484]
+  .placeholder[_ngcontent-sc484]
+  fx-retina-image
+  img {
+  width: 100%;
+  max-width: 300px;
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .heading-title[_ngcontent-sc484] {
+  margin-bottom: 35px;
+  padding-bottom: 40px;
+  font-size: 16px;
+  border-bottom: 1px solid #3031351a;
+}
+@media (max-width: 1023.98px) {
+  .fx-section--forex-open-account-register[_ngcontent-sc484]
+    .heading-title[_ngcontent-sc484]
+    h2[_ngcontent-sc484] {
+    font-size: 26px;
+    margin-bottom: 30px;
+  }
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-register[_ngcontent-sc484]
+    .heading-title[_ngcontent-sc484]
+    h2[_ngcontent-sc484] {
+    margin-bottom: 40px;
+  }
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .heading-title[_ngcontent-sc484]
+  p[_ngcontent-sc484] {
+  margin-bottom: 35px;
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .description[_ngcontent-sc484] {
+  color: #2d3436;
+  font-size: 18px;
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-register[_ngcontent-sc484]
+    .description[_ngcontent-sc484] {
+    font-size: 22px;
+  }
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .buttons-holder[_ngcontent-sc484]
+  a[_ngcontent-sc484] {
+  display: inline-flex;
+  max-width: 160px;
+  margin: 0 20px 0 0;
+}
+.fx-section--forex-open-account-register
+  .buttons-holder
+  a[lang="ar"][_nghost-sc484]
+  .fx-section--forex-open-account-register[_ngcontent-sc484]
+  .buttons-holder[_ngcontent-sc484]
+  a[_ngcontent-sc484],
+[lang="ar"]
+  [_nghost-sc484]
+  .fx-section--forex-open-account-register[_ngcontent-sc484]
+  .buttons-holder[_ngcontent-sc484]
+  a[_ngcontent-sc484] {
+  margin: 0 0 0 20px;
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .buttons-holder[_ngcontent-sc484]
+  a[_ngcontent-sc484]:last-child {
+  margin: 0;
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .platform-card[_ngcontent-sc484] {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #fff;
+  border: 1px solid #212529;
+  box-sizing: border-box;
+  box-shadow: 0 4px 10px #30313508;
+  border-radius: 5px;
+  height: 210px;
+  max-width: 270px;
+  color: #2d3436;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+  padding: 60px 20px;
+  margin: 0 auto 20px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-register[_ngcontent-sc484]
+    .platform-card[_ngcontent-sc484] {
+    margin-bottom: 0;
+    max-width: 100%;
+  }
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .platform-card[_ngcontent-sc484]:hover {
+  color: #fff;
+  background-color: #303135;
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .platform-card[_ngcontent-sc484]:hover
+  .ico[_ngcontent-sc484] {
+  color: #fff;
+}
+.fx-section--forex-open-account-register[_ngcontent-sc484]
+  .platform-card[_ngcontent-sc484]
+  .ico[_ngcontent-sc484] {
+  font-size: 40px;
+  line-height: 1;
+  display: block;
+  margin-bottom: 20px;
+  color: #2d3436;
+}
+
+<style
+  ng-transition="ng-cli-universal"
+  > .fx-section--forex-open-account-solutions[_ngcontent-sc485] {
+  padding-top: 20px;
+}
+.fx-section--forex-open-account-solutions[_ngcontent-sc485]
+  h2[_ngcontent-sc485] {
+  margin-bottom: 40px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-solutions[_ngcontent-sc485]
+    h2[_ngcontent-sc485] {
+    margin-bottom: 100px;
+  }
+}
+.fx-section--forex-open-account-solutions[_ngcontent-sc485]
+  .panel[_ngcontent-sc485] {
+  border: 1px solid #3031351a;
+  border-radius: 9px;
+  transition: background-color 0.4s;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 50px 30px;
+  z-index: 1;
+  max-width: 475px;
+  margin: 0 auto 10px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-solutions[_ngcontent-sc485]
+    .panel[_ngcontent-sc485] {
+    padding: 70px 100px;
+    margin-bottom: 0;
+    max-width: 100%;
+    height: 100%;
+  }
+}
+@media (min-width: 480px) {
+  .fx-section--forex-open-account-solutions[_ngcontent-sc485]
+    .panel[_ngcontent-sc485]:after {
+    content: "";
+    display: block;
+    width: 40px;
+    height: 100%;
+    background: #fff;
+    opacity: 1;
+    position: absolute;
+    right: -41px;
+    top: 0;
+  }
+}
+.fx-section--forex-open-account-solutions[_ngcontent-sc485]
+  .panel__content[_ngcontent-sc485] {
+  flex: 1;
+}
+.fx-section--forex-open-account-solutions[_ngcontent-sc485]
+  .panel__wrapper[_ngcontent-sc485] {
+  justify-content: center;
+  overflow: hidden;
+}
+.fx-section--forex-open-account-solutions[_ngcontent-sc485]
+  .panel__title[_ngcontent-sc485] {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 25px;
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-solutions[_ngcontent-sc485]
+    .panel__title[_ngcontent-sc485] {
+    font-size: 32px;
+    margin-bottom: 50px;
+  }
+}
+.fx-section--forex-open-account-solutions[_ngcontent-sc485]
+  .panel__sub-title[_ngcontent-sc485] {
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #636e72;
+  margin-bottom: 30px;
+  text-align: left;
+}
+.fx-section--forex-open-account-solutions[_ngcontent-sc485]
+  .panel__list[_ngcontent-sc485] {
+  color: #636e72;
+  font-size: 16px;
+}
+.fx-section--forex-open-account-solutions[_ngcontent-sc485]
+  .panel__button[_ngcontent-sc485] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 3rem;
+}
+.fx-section--forex-open-account-solutions[_ngcontent-sc485]
+  .panel__button[_ngcontent-sc485]
+  .btn[_ngcontent-sc485] {
+  align-self: center;
+  min-height: 65px;
+  font-size: 18px;
+  font-weight: 500;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-bottom: 15px;
+}
+.fx-section--forex-open-account-solutions[_ngcontent-sc485]
+  .panel__button[_ngcontent-sc485]
+  .btn-outline-primary[_ngcontent-sc485]:not(:hover) {
+  border-color: #303135;
+  color: #2d3436;
+}
+.fx-section--forex-open-account-solutions[_ngcontent-sc485]
+  .panel__button[_ngcontent-sc485]
+  .btn-outline-primary[_ngcontent-sc485]:hover {
+  background: #303135;
+  color: #fff;
+}
+.fx-section--forex-open-account-solutions[_ngcontent-sc485]
+  .backdrop[_ngcontent-sc485] {
+  background: #30313508;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  transform: translateX(0);
+  z-index: -1;
+  opacity: 0;
+  transition: transform 0.4s ease-out, opacity 0.4s ease-out;
+}
+
+.fx-section--numbers[_ngcontent-sc403] {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+@media (min-width: 1024px) {
+  .fx-section--numbers[_ngcontent-sc403] {
+    padding-top: 100px;
+    padding-bottom: 125px;
+  }
+}
+.fx-section--numbers[_ngcontent-sc403] .name[_ngcontent-sc403] {
+  font-weight: 700;
+  font-size: 130px;
+  line-height: 80%;
+  color: #f8f4f1;
+  text-transform: uppercase;
+  text-align: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 77px auto 0;
+  z-index: 0;
+  display: none;
+  letter-spacing: -0.05em;
+}
+[lang="hu"][_nghost-sc403]
+  .fx-section--numbers[_ngcontent-sc403]
+  .name[_ngcontent-sc403],
+[lang="hu"]
+  [_nghost-sc403]
+  .fx-section--numbers[_ngcontent-sc403]
+  .name[_ngcontent-sc403] {
+  font-size: 130px;
+}
+[lang="vi"][_nghost-sc403]
+  .fx-section--numbers[_ngcontent-sc403]
+  .name[_ngcontent-sc403],
+[lang="vi"]
+  [_nghost-sc403]
+  .fx-section--numbers[_ngcontent-sc403]
+  .name[_ngcontent-sc403] {
+  font-size: 130px;
+}
+@media (max-width: 1200px) {
+  .fx-section--numbers[_ngcontent-sc403] .name[_ngcontent-sc403] {
+    font-size: 130px;
+  }
+}
+@media (max-width: 1400px) {
+  [lang="hu"][_nghost-sc403]
+    .fx-section--numbers[_ngcontent-sc403]
+    .name[_ngcontent-sc403],
+  [lang="hu"]
+    [_nghost-sc403]
+    .fx-section--numbers[_ngcontent-sc403]
+    .name[_ngcontent-sc403] {
+    font-size: 100px;
+  }
+  [lang="vi"][_nghost-sc403]
+    .fx-section--numbers[_ngcontent-sc403]
+    .name[_ngcontent-sc403],
+  [lang="vi"]
+    [_nghost-sc403]
+    .fx-section--numbers[_ngcontent-sc403]
+    .name[_ngcontent-sc403] {
+    font-size: 100px;
+  }
+}
+@media (min-width: 1563px) {
+  .fx-section--numbers[_ngcontent-sc403] .name[_ngcontent-sc403] {
+    font-size: 166px;
+  }
+}
+@media (min-width: 1024px) {
+  .fx-section--numbers[_ngcontent-sc403] .name[_ngcontent-sc403] {
+    display: block;
+  }
+}
+.fx-section--numbers[_ngcontent-sc403]
+  .fx-section--numbers-inner[_ngcontent-sc403] {
+  background: #fbf9f7;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-bottom: 40px;
+}
+@media (min-width: 1024px) {
+  .fx-section--numbers[_ngcontent-sc403]
+    .fx-section--numbers-inner[_ngcontent-sc403] {
+    margin-bottom: 56px;
+  }
+}
+.fx-section--numbers[_ngcontent-sc403] .items-holder[_ngcontent-sc403] {
+  position: relative;
+  z-index: 1;
+}
+.fx-section--numbers[_ngcontent-sc403] .item-number[_ngcontent-sc403] {
+  text-align: center;
+  position: relative;
+  color: #b68756;
+}
+.fx-section--numbers[_ngcontent-sc403]
+  .item-number-8[_ngcontent-sc403]
+  .inner[_ngcontent-sc403] {
+  border: none !important;
+}
+.fx-section--numbers[_ngcontent-sc403]
+  .item-number[_ngcontent-sc403]
+  .inner[_ngcontent-sc403] {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #e4d8cb;
+}
+@media (min-width: 480px) {
+  .fx-section--numbers[_ngcontent-sc403]
+    .item-number[_ngcontent-sc403]
+    .inner[_ngcontent-sc403] {
+    border: none;
+  }
+  .fx-section--numbers[_ngcontent-sc403]
+    .item-number-1[_ngcontent-sc403]
+    .inner[_ngcontent-sc403],
+  .fx-section--numbers[_ngcontent-sc403]
+    .item-number-2[_ngcontent-sc403]
+    .inner[_ngcontent-sc403],
+  .fx-section--numbers[_ngcontent-sc403]
+    .item-number-3[_ngcontent-sc403]
+    .inner[_ngcontent-sc403],
+  .fx-section--numbers[_ngcontent-sc403]
+    .item-number-4[_ngcontent-sc403]
+    .inner[_ngcontent-sc403],
+  .fx-section--numbers[_ngcontent-sc403]
+    .item-number-5[_ngcontent-sc403]
+    .inner[_ngcontent-sc403],
+  .fx-section--numbers[_ngcontent-sc403]
+    .item-number-6[_ngcontent-sc403]
+    .inner[_ngcontent-sc403] {
+    border-bottom: 1px solid #e4d8cb;
+  }
+}
+@media (min-width: 1024px) {
+  .fx-section--numbers[_ngcontent-sc403]
+    .item-number-5[_ngcontent-sc403]
+    .inner[_ngcontent-sc403],
+  .fx-section--numbers[_ngcontent-sc403]
+    .item-number-6[_ngcontent-sc403]
+    .inner[_ngcontent-sc403] {
+    border: none;
+  }
+}
+.fx-section--numbers[_ngcontent-sc403]
+  .item-number[_ngcontent-sc403]
+  .number[_ngcontent-sc403] {
+  font-weight: 600;
+  font-size: 42px;
+  line-height: 110%;
+  display: block;
+}
+.fx-section--numbers[_ngcontent-sc403]
+  .item-number[_ngcontent-sc403]
+  .caption[_ngcontent-sc403] {
+  line-height: 29px;
+  font-weight: 500;
+  font-size: 16px;
+  color: #2d3436;
+}
+@media (min-width: 1024px) {
+  .fx-section--numbers[_ngcontent-sc403]
+    .item-number[_ngcontent-sc403]
+    .caption[_ngcontent-sc403] {
+    max-width: 175px;
+    margin: 0 auto;
+  }
+}
+
+.fx-section--fxpro-history[_ngcontent-sc399] {
+  overflow: hidden;
+  padding-top: 0;
+}
+@media (min-width: 1024px) {
+  .fx-section--fxpro-history[_ngcontent-sc399] {
+    padding-top: 100px;
+  }
+}
+.fx-section--fxpro-history[_ngcontent-sc399] .panel__heading[_ngcontent-sc399] {
+  max-width: 630px;
+  margin: 0 auto;
+}
+@media (min-width: 1024px) {
+  .fx-section--fxpro-history[_ngcontent-sc399]
+    .panel__heading[_ngcontent-sc399] {
+    padding-bottom: 100px;
+  }
+}
+.fx-section--fxpro-history[_ngcontent-sc399] .logos-history[_ngcontent-sc399] {
+  justify-content: center;
+  display: flex;
+  background: #f8f8f8;
+  padding: 40px 0 60px;
+}
+@media (max-width: 1199.98px) {
+  .fx-section--fxpro-history[_ngcontent-sc399]
+    .logos-history[_ngcontent-sc399] {
+    margin: 0 auto;
+  }
+}
+.fx-section--fxpro-history[_ngcontent-sc399] .logo-block[_ngcontent-sc399] {
+  --simple-color: #636e72;
+  --disabled-color: #c4c4c4;
+  --default-color: #2d3436;
+  padding: 0 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block[_ngcontent-sc399]
+  img[_ngcontent-sc399] {
+  max-width: 100%;
+  height: auto;
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block_float[_ngcontent-sc399] {
+  position: absolute;
+  right: -70px;
+  top: 150px;
+  justify-content: center;
+  max-width: 140px;
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block[_ngcontent-sc399]
+  .line-separator[_ngcontent-sc399] {
+  background: var(--disabled-color);
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block[_ngcontent-sc399]
+  .line-separator_short[_ngcontent-sc399] {
+  height: 20px;
+  width: 1px;
+  margin-top: -20px;
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block[_ngcontent-sc399]
+  .line-separator_conc[_ngcontent-sc399] {
+  height: 25px;
+  width: 1px;
+  margin-top: 10px;
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block[_ngcontent-sc399]
+  .line-separator_long[_ngcontent-sc399] {
+  height: 85px;
+  width: 1px;
+  margin-bottom: 10px;
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block[_ngcontent-sc399]
+  .placeholder[_ngcontent-sc399] {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 140px;
+  height: 140px;
+}
+@media (min-width: 1200px) {
+  .fx-section--fxpro-history[_ngcontent-sc399]
+    .logo-block[_ngcontent-sc399]
+    .placeholder[_ngcontent-sc399] {
+    width: 170px;
+    height: 170px;
+  }
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block[_ngcontent-sc399]
+  .description[_ngcontent-sc399] {
+  display: block;
+  margin-bottom: 8px;
+  margin-top: 10px;
+  color: var(--default-color);
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: 0;
+  text-align: center;
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block[_ngcontent-sc399]
+  .description_disabled[_ngcontent-sc399] {
+  color: var(--disabled-color);
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block[_ngcontent-sc399]
+  .description_simple[_ngcontent-sc399] {
+  color: var(--simple-color);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.52px;
+  margin-top: 9px;
+  max-width: 140px;
+  width: 140px;
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block[_ngcontent-sc399]
+  .description_small[_ngcontent-sc399] {
+  width: 126px;
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block[_ngcontent-sc399]
+  .year[_ngcontent-sc399] {
+  color: var(--default-color);
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19.36px;
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block[_ngcontent-sc399]
+  .year_simple[_ngcontent-sc399] {
+  color: var(--simple-color);
+  font-size: 12px;
+  line-height: 14.52px;
+}
+.fx-section--fxpro-history[_ngcontent-sc399]
+  .logo-block[_ngcontent-sc399]
+  .year_disabled[_ngcontent-sc399] {
+  color: var(--disabled-color);
+}
+
+.section-about-history[_ngcontent-sc488] {
+  background: #30313508;
+  font-size: 22px;
+  padding: 45px 0;
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+  color: #2d3436;
+}
+@media (min-width: 1024px) {
+  .section-about-history[_ngcontent-sc488] {
+    padding: 0 0 130px;
+    font-size: 30px;
+  }
+}
+
+.fx-section--forex-open-account-awards[_ngcontent-sc486] {
+  padding: 55px 0 20px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-awards[_ngcontent-sc486] {
+    padding: 140px 0 70px;
+  }
+}
+.fx-section--forex-open-account-awards[_ngcontent-sc486]
+  .heading-title[_ngcontent-sc486] {
+  margin-bottom: 40px;
+  font-size: 16px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-awards[_ngcontent-sc486]
+    .heading-title[_ngcontent-sc486] {
+    margin-bottom: 80px;
+  }
+}
+.fx-section--forex-open-account-awards[_ngcontent-sc486]
+  .heading-title[_ngcontent-sc486]
+  h2[_ngcontent-sc486] {
+  margin-bottom: 25px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-awards[_ngcontent-sc486]
+    .heading-title[_ngcontent-sc486]
+    h2[_ngcontent-sc486] {
+    margin-bottom: 35px;
+  }
+}
+.fx-section--forex-open-account-awards[_ngcontent-sc486]
+  .heading-title[_ngcontent-sc486]
+  p[_ngcontent-sc486] {
+  margin-bottom: 0;
+}
+
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-faq[_ngcontent-sc487] {
+    padding-bottom: 140px;
+  }
+}
+.fx-section--forex-open-account-faq[_ngcontent-sc487] h2[_ngcontent-sc487] {
+  margin-bottom: 20px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-faq[_ngcontent-sc487] h2[_ngcontent-sc487] {
+    margin-bottom: 50px;
+  }
+}
+.fx-section--forex-open-account-faq[_ngcontent-sc487]
+  .faq-list[_ngcontent-sc487] {
+  margin-bottom: 45px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-faq[_ngcontent-sc487]
+    .faq-list[_ngcontent-sc487] {
+    margin-bottom: 120px;
+  }
+}
+.fx-section--forex-open-account-faq[_ngcontent-sc487]
+  .faq-list[_ngcontent-sc487]
+  .item[_ngcontent-sc487] {
+  color: #303135;
+  background: #30313508;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+  padding: 5px 35px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  text-decoration: none;
+  margin-bottom: 10px;
+  width: 100%;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-faq[_ngcontent-sc487]
+    .faq-list[_ngcontent-sc487]
+    .item[_ngcontent-sc487] {
+    margin-bottom: 30px;
+  }
+}
+.fx-section--forex-open-account-faq[_ngcontent-sc487]
+  .text-size-h2[_ngcontent-sc487] {
+  margin-bottom: 40px;
+  font-weight: 500;
+  font-size: 30px;
+}
+@media (min-width: 1024px) {
+  .fx-section--forex-open-account-faq[_ngcontent-sc487]
+    .text-size-h2[_ngcontent-sc487] {
+    font-size: 40px;
+  }
+}
+
+.fx-section--faq-help[_ngcontent-sc112] {
+  padding-top: 3rem;
+}
+.fx-section--faq-help.fx-theme--gray[_ngcontent-sc112] {
+  background: #30313508;
+}
+.fx-section--faq-help[_ngcontent-sc112] .text-size-h2[_ngcontent-sc112] {
+  margin-bottom: 40px;
+}
+@media (min-width: 1024px) {
+  .fx-section--faq-help[_ngcontent-sc112] .text-size-h2[_ngcontent-sc112] {
+    margin-bottom: 55px;
+  }
+}
+
+.footnotes[_ngcontent-sc133] {
+  font-size: 0.8571rem;
+  padding: 2.4285rem 0;
+  border-top: 1px solid #929daa38;
+}
+@media (min-width: 480px) {
+  .footnotes[_ngcontent-sc133] {
+    font-size: 0.6875rem;
+    padding: 1.5rem 0;
+  }
+}
+@media (min-width: 1024px) {
+  .footnotes[_ngcontent-sc133] {
+    padding: 2.5rem 0;
+  }
+}
+.footnotes[_ngcontent-sc133] p[_ngcontent-sc133] {
+  padding-left: 7px;
+  position: relative;
+  margin-bottom: 1rem;
+}
+.footnotes[_ngcontent-sc133] p[_ngcontent-sc133]:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: 480px) {
+  .footnotes[_ngcontent-sc133] p[_ngcontent-sc133] {
+    margin-bottom: 0;
+  }
+}
+.footnotes[_ngcontent-sc133] .sup[_ngcontent-sc133] {
+  font-size: 0.625rem;
+  position: absolute;
+  top: -5px;
+  left: 0;
+  margin-right: 3px;
+}
+[lang="ar"] .footnotes p {
+  padding-right: 7px !important;
+  padding-left: 0 !important;
+}
+[lang="ar"] .footnotes .sup {
+  left: auto !important;
+  right: 0 !important;
+  margin-left: 3px !important;
+  margin-right: 0 !important;
+}
+
+.award[_ngcontent-sc144] {
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+  text-align: center;
+  margin-bottom: 20px;
+}
+@media (min-width: 1024px) {
+  .award[_ngcontent-sc144] {
+    margin-bottom: 0;
+  }
+}
+.award[_ngcontent-sc144] i[_ngcontent-sc144] {
+  color: #2d3436;
+  margin-bottom: 1.25rem;
+  font-size: 2.5rem;
+  display: block;
+}
+.award[_ngcontent-sc144] .text-size-h6[_ngcontent-sc144] {
+  text-transform: uppercase;
+  line-height: 1.25;
+  font-weight: 600;
+  color: #2d3436;
+}
+.award[_ngcontent-sc144] .text-size-h6[_ngcontent-sc144] small {
+  font-size: 1rem;
+  text-transform: capitalize;
+  color: #636e72;
+  font-weight: 400;
+  margin-top: 11px;
+}
+.panel__heading[_ngcontent-sc144] .award[_ngcontent-sc144] {
+  padding-top: 1rem;
+}
+.fx-theme--dark .award .text-size-h6 small {
+  color: #b2bec3 !important;
+}
+
+@media (min-width: 1024px) {
+  .qr-code-section[_ngcontent-sc235] {
+    margin-top: 40px;
+  }
+}
+.qr-code-section[_ngcontent-sc235] .btn-holder[_ngcontent-sc235] {
+  position: relative;
+  z-index: 1;
+  display: inline-flex;
+}
+.qr-code-section[_ngcontent-sc235] .btn-holder[_ngcontent-sc235]:first-child {
+  margin-bottom: 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+@media (min-width: 1024px) {
+  .qr-code-section[_ngcontent-sc235] .btn-holder[_ngcontent-sc235]:first-child {
+    display: inline-flex;
+    margin-bottom: 0;
+  }
+}
+.qr-code-section[_ngcontent-sc235] .btn-holder[_ngcontent-sc235]:last-child {
+  margin: 0;
+}
+@media (min-width: 1024px) {
+  .qr-code-section[_ngcontent-sc235] .btn-holder[_ngcontent-sc235] {
+    margin-right: 20px;
+  }
+}
+.qr-code-section[_ngcontent-sc235] .mark[_ngcontent-sc235] {
+  position: absolute;
+  right: -60px;
+  top: -20px;
+  color: #fff;
+  background: red;
+  box-shadow: 0 1px 4px #ff000080;
+  border-radius: 43px;
+  height: 40px;
+  width: 80px;
+  z-index: 2;
+  text-align: center;
+  padding: 0 5px;
+  line-height: 40px;
+}
+.qr-code-section[_ngcontent-sc235] .button[_ngcontent-sc235] {
+  display: flex;
+}
+.qr-code-section[_ngcontent-sc235]
+  .button-apple[href="unsafe:javascript:void(0)"][_ngcontent-sc235] {
+  pointer-events: none;
+}
+
+.live-support[_ngcontent-sc111]
+  [class*="col-"][_ngcontent-sc111]:first-child
+  .live-support_item[_ngcontent-sc111]:before {
+  display: none;
+}
+[lang="ar"][_nghost-sc111]
+  .live-support[_ngcontent-sc111]
+  [class*="col-"][_ngcontent-sc111]:first-child
+  .live-support_item[_ngcontent-sc111]:before,
+[lang="ar"]
+  [_nghost-sc111]
+  .live-support[_ngcontent-sc111]
+  [class*="col-"][_ngcontent-sc111]:first-child
+  .live-support_item[_ngcontent-sc111]:before {
+  display: block;
+}
+[lang="ar"][_nghost-sc111]
+  .live-support[_ngcontent-sc111]
+  [class*="col-"][_ngcontent-sc111]:last-child
+  .live-support_item[_ngcontent-sc111]:before,
+[lang="ar"]
+  [_nghost-sc111]
+  .live-support[_ngcontent-sc111]
+  [class*="col-"][_ngcontent-sc111]:last-child
+  .live-support_item[_ngcontent-sc111]:before {
+  display: none;
+}
+.live-support[_ngcontent-sc111] .box[_ngcontent-sc111] {
+  background: #f5f6f7;
+  border-radius: 10px;
+  margin: 20px;
+}
+.live-support_item[_ngcontent-sc111] {
+  color: #636e72;
+  font-size: 16px;
+  display: block;
+  margin: 30px;
+}
+@media (min-width: 1024px) {
+  .live-support_item[_ngcontent-sc111] {
+    margin: 50px;
+  }
+}
+.live-support_item[_ngcontent-sc111] .icon[_ngcontent-sc111] {
+  color: #2d3436;
+  font-size: 40px;
+  line-height: 1;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  border-radius: 50%;
+  align-items: center;
+  background-color: #fff;
+  min-width: 80px;
+  margin: 0 0 15px 10px;
+}
+@media (min-width: 1024px) {
+  .live-support_item[_ngcontent-sc111] .icon[_ngcontent-sc111] {
+    width: 100px;
+    height: 100px;
+    min-width: 100px;
+    margin: 0;
+  }
+}
+.live-support_item[_ngcontent-sc111] .image-holder[_ngcontent-sc111] {
+  min-height: 340px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.live-support_item[_ngcontent-sc111]
+  .image-holder[_ngcontent-sc111]
+  fx-retina-image
+  img {
+  width: 100%;
+}
+.live-support_item[_ngcontent-sc111] .text-container[_ngcontent-sc111] {
+  margin: 0 0 0 20px;
+}
+.live-support_item[_ngcontent-sc111]
+  .text-container[_ngcontent-sc111]
+  .title[_ngcontent-sc111] {
+  color: #2d3436;
+  font-size: 24px;
+  font-family: Futura, Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+  font-weight: 500;
+  line-height: 150%;
+  color: #b68756;
+}
+.live-support_item[_ngcontent-sc111]
+  .text-container[_ngcontent-sc111]
+  .subtitle[_ngcontent-sc111] {
+  color: #2d3436;
+  font-size: 16px;
+  font-family: Inter, Segoe UI, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+  font-weight: 400;
+  line-height: 24px;
+}
+.tel {
+  font-size: 20px;
+  color: #b68756;
+  pointer-events: none;
+  cursor: text;
+}
+.email {
+  font-size: 20px;
+  color: #b68756;
+}
